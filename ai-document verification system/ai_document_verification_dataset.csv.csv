@@ -1,0 +1,1001 @@
+document_id,user_id,document_type,submission_date,verification_status,ai_confidence_score,fraud_detection_flag,processing_time_sec,comments
+DOC00001,USER1706,Passport,2025-01-06,Verified,92.91,False,4.42,Valid document
+DOC00002,USER4585,ID Card,2025-01-06,Rejected,24.58,False,0.88,Issues detected
+DOC00003,USER7371,Bank Statement,2024-09-14,Manual Review,60.69,False,4.69,Issues detected
+DOC00004,USER2768,Passport,2025-04-01,Rejected,32.66,True,3.35,Issues detected
+DOC00005,USER8394,ID Card,2025-02-06,Verified,96.78,False,3.31,Valid document
+DOC00006,USER9441,Passport,2024-07-28,Verified,96.4,False,4.26,Valid document
+DOC00007,USER2306,Utility Bill,2024-08-04,Rejected,15.26,False,2.37,Issues detected
+DOC00008,USER4312,Utility Bill,2024-09-25,Verified,84.88,False,4.59,Valid document
+DOC00009,USER5771,ID Card,2024-04-30,Verified,92.27,False,1.03,Valid document
+DOC00010,USER6891,Utility Bill,2024-11-03,Rejected,6.29,True,3.57,Issues detected
+DOC00011,USER4843,ID Card,2024-04-22,Verified,89.28,False,3.67,Valid document
+DOC00012,USER3360,Bank Statement,2024-10-14,Verified,96.55,False,2.03,Valid document
+DOC00013,USER7125,ID Card,2025-01-25,Manual Review,78.16,False,3.72,Issues detected
+DOC00014,USER3797,ID Card,2024-04-04,Verified,91.08,False,1.68,Valid document
+DOC00015,USER2478,Driver's License,2024-05-24,Verified,86.4,False,0.64,Valid document
+DOC00016,USER2133,Bank Statement,2024-11-11,Manual Review,59.78,True,1.97,Issues detected
+DOC00017,USER5124,ID Card,2024-04-27,Verified,90.08,False,1.91,Valid document
+DOC00018,USER4512,Utility Bill,2024-09-09,Rejected,49.1,True,4.79,Issues detected
+DOC00019,USER1541,Driver's License,2025-03-17,Rejected,36.84,False,1.23,Issues detected
+DOC00020,USER1368,Passport,2024-10-22,Rejected,10.85,True,3.78,Issues detected
+DOC00021,USER8973,Driver's License,2024-10-20,Manual Review,56.37,False,2.48,Issues detected
+DOC00022,USER3304,Utility Bill,2025-03-02,Verified,88.49,False,3.44,Valid document
+DOC00023,USER8887,Driver's License,2025-02-16,Verified,80.56,False,1.69,Valid document
+DOC00024,USER5803,ID Card,2025-02-11,Manual Review,73.88,True,1.33,Issues detected
+DOC00025,USER2400,Bank Statement,2024-09-20,Verified,93.64,False,4.77,Valid document
+DOC00026,USER4078,ID Card,2024-12-10,Manual Review,54.35,True,1.19,Issues detected
+DOC00027,USER5263,Passport,2024-12-27,Manual Review,63.59,False,2.58,Issues detected
+DOC00028,USER3008,ID Card,2024-11-20,Manual Review,59.9,True,0.53,Issues detected
+DOC00029,USER3535,Driver's License,2024-10-31,Manual Review,74.0,True,2.58,Issues detected
+DOC00030,USER5123,Driver's License,2024-11-11,Verified,93.71,False,3.33,Valid document
+DOC00031,USER5452,ID Card,2025-01-30,Manual Review,52.84,False,3.64,Issues detected
+DOC00032,USER7684,Utility Bill,2024-07-02,Rejected,14.84,True,4.28,Issues detected
+DOC00033,USER7021,Driver's License,2024-09-10,Verified,98.34,False,1.74,Valid document
+DOC00034,USER9142,Bank Statement,2024-06-11,Rejected,9.32,False,4.45,Issues detected
+DOC00035,USER6734,Utility Bill,2025-01-14,Rejected,8.22,False,3.55,Issues detected
+DOC00036,USER5537,Utility Bill,2024-06-27,Rejected,13.07,True,3.29,Issues detected
+DOC00037,USER1577,ID Card,2024-12-21,Manual Review,71.62,True,4.85,Issues detected
+DOC00038,USER6780,Bank Statement,2024-06-20,Verified,89.6,False,3.26,Valid document
+DOC00039,USER9613,Driver's License,2024-12-27,Rejected,10.33,True,3.86,Issues detected
+DOC00040,USER9318,ID Card,2024-07-14,Rejected,33.35,True,2.96,Issues detected
+DOC00041,USER3011,Bank Statement,2024-12-25,Manual Review,53.34,False,2.13,Issues detected
+DOC00042,USER2456,ID Card,2024-08-26,Rejected,9.07,True,4.16,Issues detected
+DOC00043,USER9970,Driver's License,2024-07-06,Rejected,23.28,False,4.51,Issues detected
+DOC00044,USER7458,Driver's License,2024-09-25,Verified,93.07,False,1.15,Valid document
+DOC00045,USER7237,Driver's License,2025-02-19,Rejected,43.59,True,3.4,Issues detected
+DOC00046,USER7548,Driver's License,2024-04-03,Rejected,15.47,False,3.61,Issues detected
+DOC00047,USER4388,Passport,2024-06-05,Verified,84.05,False,1.14,Valid document
+DOC00048,USER9107,Driver's License,2024-07-22,Manual Review,61.19,True,2.84,Issues detected
+DOC00049,USER6468,Utility Bill,2024-04-06,Verified,87.03,False,0.64,Valid document
+DOC00050,USER4759,Driver's License,2024-08-10,Verified,90.55,False,3.32,Valid document
+DOC00051,USER9057,Bank Statement,2024-08-05,Verified,96.93,False,1.57,Valid document
+DOC00052,USER4969,Driver's License,2024-08-27,Verified,87.02,False,3.91,Valid document
+DOC00053,USER9636,Passport,2024-09-04,Verified,92.0,False,0.92,Valid document
+DOC00054,USER1658,ID Card,2024-11-13,Rejected,21.2,False,2.2,Issues detected
+DOC00055,USER5093,Utility Bill,2025-03-10,Rejected,37.32,False,3.32,Issues detected
+DOC00056,USER7780,ID Card,2024-08-07,Rejected,19.49,True,3.66,Issues detected
+DOC00057,USER9320,ID Card,2024-06-23,Verified,86.11,False,0.9,Valid document
+DOC00058,USER7275,Utility Bill,2024-06-13,Manual Review,58.15,False,0.68,Issues detected
+DOC00059,USER4360,Utility Bill,2025-02-07,Rejected,29.24,False,1.49,Issues detected
+DOC00060,USER1995,Passport,2024-07-08,Manual Review,71.61,True,3.33,Issues detected
+DOC00061,USER6047,Bank Statement,2024-04-28,Rejected,20.15,True,1.0,Issues detected
+DOC00062,USER3272,Driver's License,2024-05-09,Verified,89.82,False,1.69,Valid document
+DOC00063,USER4126,Passport,2024-11-15,Verified,94.58,False,4.91,Valid document
+DOC00064,USER3545,ID Card,2024-11-06,Manual Review,50.03,False,3.02,Issues detected
+DOC00065,USER6518,ID Card,2024-04-29,Rejected,2.03,True,0.9,Issues detected
+DOC00066,USER8425,Bank Statement,2024-08-19,Verified,96.73,False,1.01,Valid document
+DOC00067,USER9773,Driver's License,2024-09-02,Rejected,36.28,True,4.88,Issues detected
+DOC00068,USER8729,ID Card,2024-12-14,Verified,97.43,False,1.68,Valid document
+DOC00069,USER2273,Utility Bill,2024-08-07,Rejected,39.65,True,2.81,Issues detected
+DOC00070,USER6206,Utility Bill,2024-10-05,Rejected,26.39,False,2.37,Issues detected
+DOC00071,USER3592,Passport,2025-02-14,Manual Review,53.71,False,4.74,Issues detected
+DOC00072,USER1652,Bank Statement,2025-03-25,Manual Review,78.17,True,3.46,Issues detected
+DOC00073,USER1292,Driver's License,2024-11-20,Verified,99.7,False,4.84,Valid document
+DOC00074,USER2410,Utility Bill,2024-09-02,Rejected,38.25,False,4.54,Issues detected
+DOC00075,USER4715,Driver's License,2025-01-30,Manual Review,63.03,True,1.92,Issues detected
+DOC00076,USER8871,ID Card,2025-01-03,Rejected,41.63,True,3.83,Issues detected
+DOC00077,USER6774,Utility Bill,2024-08-31,Manual Review,65.6,True,0.63,Issues detected
+DOC00078,USER9541,Passport,2024-08-26,Manual Review,64.71,False,4.47,Issues detected
+DOC00079,USER9278,Driver's License,2024-11-19,Manual Review,63.29,True,1.39,Issues detected
+DOC00080,USER1463,Utility Bill,2024-08-10,Manual Review,60.86,False,0.55,Issues detected
+DOC00081,USER1876,Driver's License,2025-02-25,Rejected,38.74,False,1.49,Issues detected
+DOC00082,USER4793,Bank Statement,2025-01-06,Rejected,40.66,False,3.04,Issues detected
+DOC00083,USER4143,Passport,2024-04-03,Verified,82.05,False,1.79,Valid document
+DOC00084,USER1966,Passport,2025-02-19,Verified,84.37,False,3.81,Valid document
+DOC00085,USER9521,Passport,2024-10-05,Manual Review,66.55,True,1.1,Issues detected
+DOC00086,USER5295,Passport,2024-11-13,Verified,83.94,False,1.16,Valid document
+DOC00087,USER2971,Utility Bill,2024-11-19,Verified,87.32,False,3.44,Valid document
+DOC00088,USER5679,Passport,2024-04-14,Manual Review,61.99,False,4.72,Issues detected
+DOC00089,USER5021,Driver's License,2024-09-28,Manual Review,70.52,False,1.47,Issues detected
+DOC00090,USER9354,Bank Statement,2024-04-13,Rejected,6.18,False,1.05,Issues detected
+DOC00091,USER1682,ID Card,2024-06-02,Manual Review,62.92,True,0.82,Issues detected
+DOC00092,USER8294,Driver's License,2024-09-02,Manual Review,76.99,False,4.32,Issues detected
+DOC00093,USER8356,Driver's License,2024-08-25,Manual Review,72.14,True,1.36,Issues detected
+DOC00094,USER7394,ID Card,2024-07-07,Rejected,15.8,False,4.69,Issues detected
+DOC00095,USER8872,ID Card,2024-06-06,Manual Review,71.66,True,4.66,Issues detected
+DOC00096,USER2108,Passport,2024-11-27,Rejected,15.13,False,1.0,Issues detected
+DOC00097,USER5997,Utility Bill,2024-06-20,Rejected,27.05,True,3.75,Issues detected
+DOC00098,USER4383,ID Card,2024-10-02,Verified,96.37,False,4.62,Valid document
+DOC00099,USER5733,Passport,2025-03-02,Rejected,28.47,False,4.67,Issues detected
+DOC00100,USER8182,Passport,2024-08-05,Rejected,21.16,False,1.79,Issues detected
+DOC00101,USER2896,ID Card,2025-01-13,Rejected,26.93,True,0.79,Issues detected
+DOC00102,USER7841,Utility Bill,2024-06-28,Verified,99.32,False,3.07,Valid document
+DOC00103,USER4465,ID Card,2024-07-11,Rejected,31.01,True,1.87,Issues detected
+DOC00104,USER8624,Passport,2024-04-30,Verified,93.66,False,3.64,Valid document
+DOC00105,USER9088,Utility Bill,2025-02-10,Rejected,49.08,False,1.32,Issues detected
+DOC00106,USER6855,Driver's License,2025-03-24,Verified,93.57,False,1.81,Valid document
+DOC00107,USER3749,Utility Bill,2024-12-03,Manual Review,51.34,True,0.81,Issues detected
+DOC00108,USER4809,Bank Statement,2024-11-23,Rejected,0.6,False,0.53,Issues detected
+DOC00109,USER1743,Bank Statement,2024-11-26,Rejected,11.25,True,1.68,Issues detected
+DOC00110,USER1160,Bank Statement,2025-03-08,Manual Review,60.37,False,0.78,Issues detected
+DOC00111,USER1252,Utility Bill,2024-04-24,Manual Review,65.61,False,2.8,Issues detected
+DOC00112,USER9633,Utility Bill,2024-09-12,Rejected,24.3,True,1.66,Issues detected
+DOC00113,USER2796,Passport,2024-09-02,Rejected,49.31,True,2.01,Issues detected
+DOC00114,USER2082,Passport,2024-04-27,Rejected,39.88,True,1.93,Issues detected
+DOC00115,USER2561,Passport,2025-02-11,Rejected,46.18,True,2.27,Issues detected
+DOC00116,USER5365,Utility Bill,2024-07-09,Manual Review,50.98,True,4.82,Issues detected
+DOC00117,USER8393,Utility Bill,2024-11-24,Manual Review,75.72,False,1.96,Issues detected
+DOC00118,USER6061,Driver's License,2025-03-18,Manual Review,67.93,True,0.78,Issues detected
+DOC00119,USER5370,Driver's License,2024-11-03,Manual Review,64.29,False,4.24,Issues detected
+DOC00120,USER8545,Driver's License,2025-02-23,Verified,80.02,False,4.87,Valid document
+DOC00121,USER1247,Passport,2024-11-13,Manual Review,69.81,True,1.08,Issues detected
+DOC00122,USER4152,Driver's License,2024-12-01,Rejected,28.51,False,1.73,Issues detected
+DOC00123,USER5815,ID Card,2024-06-04,Verified,88.02,False,2.11,Valid document
+DOC00124,USER9477,Passport,2024-11-11,Rejected,13.63,False,1.71,Issues detected
+DOC00125,USER3955,Driver's License,2025-03-20,Rejected,24.47,False,1.4,Issues detected
+DOC00126,USER5043,Utility Bill,2024-12-27,Manual Review,60.29,True,4.39,Issues detected
+DOC00127,USER4083,Driver's License,2024-09-27,Verified,89.85,False,4.11,Valid document
+DOC00128,USER6893,Passport,2024-06-22,Rejected,23.82,True,2.06,Issues detected
+DOC00129,USER3673,Bank Statement,2025-02-05,Verified,86.8,False,1.29,Valid document
+DOC00130,USER8833,Passport,2024-05-31,Rejected,18.31,True,4.56,Issues detected
+DOC00131,USER6255,ID Card,2024-04-06,Verified,82.1,False,2.71,Valid document
+DOC00132,USER6187,Bank Statement,2024-05-08,Rejected,13.45,False,1.63,Issues detected
+DOC00133,USER2192,Driver's License,2024-07-24,Manual Review,67.62,False,1.93,Issues detected
+DOC00134,USER5012,Driver's License,2024-08-08,Verified,85.2,False,1.86,Valid document
+DOC00135,USER5596,ID Card,2024-12-22,Rejected,31.1,True,0.96,Issues detected
+DOC00136,USER4189,Utility Bill,2024-12-04,Rejected,36.61,True,3.21,Issues detected
+DOC00137,USER5741,ID Card,2024-12-06,Rejected,17.69,False,4.37,Issues detected
+DOC00138,USER5130,Utility Bill,2024-10-10,Verified,86.23,False,4.19,Valid document
+DOC00139,USER5733,Passport,2025-02-28,Manual Review,68.83,False,1.71,Issues detected
+DOC00140,USER9310,ID Card,2024-10-22,Rejected,38.48,True,2.94,Issues detected
+DOC00141,USER2953,Bank Statement,2024-06-27,Manual Review,55.82,True,4.68,Issues detected
+DOC00142,USER3840,Bank Statement,2024-10-27,Manual Review,72.72,False,1.3,Issues detected
+DOC00143,USER6729,Driver's License,2024-05-03,Manual Review,61.82,False,3.66,Issues detected
+DOC00144,USER2744,Driver's License,2025-03-25,Manual Review,52.67,True,2.85,Issues detected
+DOC00145,USER3918,Passport,2024-09-15,Manual Review,77.92,True,4.74,Issues detected
+DOC00146,USER2692,Driver's License,2025-01-04,Rejected,31.12,False,1.1,Issues detected
+DOC00147,USER8793,Passport,2025-02-05,Rejected,4.71,True,2.49,Issues detected
+DOC00148,USER7180,ID Card,2024-07-22,Rejected,9.44,True,2.99,Issues detected
+DOC00149,USER6739,ID Card,2025-01-28,Rejected,30.63,False,0.69,Issues detected
+DOC00150,USER9343,Utility Bill,2024-07-14,Manual Review,65.07,False,1.67,Issues detected
+DOC00151,USER7669,Passport,2024-04-24,Rejected,27.74,True,1.7,Issues detected
+DOC00152,USER8363,ID Card,2025-03-18,Manual Review,58.76,False,0.95,Issues detected
+DOC00153,USER8258,Passport,2024-12-30,Verified,82.68,False,4.91,Valid document
+DOC00154,USER5264,Utility Bill,2024-05-15,Rejected,27.41,True,4.29,Issues detected
+DOC00155,USER1523,Utility Bill,2024-05-19,Rejected,48.17,True,4.3,Issues detected
+DOC00156,USER7439,ID Card,2025-01-31,Verified,80.46,False,4.76,Valid document
+DOC00157,USER8599,Utility Bill,2024-07-31,Manual Review,75.5,True,1.03,Issues detected
+DOC00158,USER6778,Utility Bill,2025-01-23,Verified,84.01,False,4.69,Valid document
+DOC00159,USER1420,Driver's License,2024-06-11,Rejected,36.73,False,3.52,Issues detected
+DOC00160,USER7749,Utility Bill,2024-10-07,Manual Review,51.32,False,2.64,Issues detected
+DOC00161,USER6416,Bank Statement,2024-04-29,Verified,90.96,False,4.73,Valid document
+DOC00162,USER4394,Utility Bill,2024-12-19,Rejected,4.3,True,4.72,Issues detected
+DOC00163,USER6709,Passport,2024-05-02,Verified,99.95,False,3.88,Valid document
+DOC00164,USER7936,Bank Statement,2024-07-04,Manual Review,58.86,True,4.64,Issues detected
+DOC00165,USER7865,Bank Statement,2024-04-30,Verified,82.16,False,4.81,Valid document
+DOC00166,USER3265,Passport,2024-10-09,Manual Review,74.75,False,4.3,Issues detected
+DOC00167,USER9495,Driver's License,2024-05-06,Verified,88.73,False,0.73,Valid document
+DOC00168,USER3639,Driver's License,2025-02-27,Rejected,15.08,False,2.94,Issues detected
+DOC00169,USER1065,Driver's License,2024-10-27,Manual Review,67.76,True,3.14,Issues detected
+DOC00170,USER4950,Passport,2024-09-29,Verified,92.96,False,2.71,Valid document
+DOC00171,USER4725,Driver's License,2024-07-08,Verified,80.19,False,3.61,Valid document
+DOC00172,USER3230,Passport,2024-06-13,Verified,96.06,False,1.28,Valid document
+DOC00173,USER6502,Bank Statement,2025-03-16,Verified,84.2,False,2.96,Valid document
+DOC00174,USER6209,Bank Statement,2024-05-08,Verified,98.21,False,4.66,Valid document
+DOC00175,USER4005,ID Card,2024-06-23,Rejected,8.4,False,1.76,Issues detected
+DOC00176,USER8790,Driver's License,2025-03-29,Verified,99.13,False,2.28,Valid document
+DOC00177,USER4711,Passport,2024-09-26,Verified,97.85,False,1.27,Valid document
+DOC00178,USER6708,ID Card,2025-02-18,Verified,97.86,False,2.67,Valid document
+DOC00179,USER6596,Passport,2025-01-31,Verified,92.82,False,4.89,Valid document
+DOC00180,USER2897,Driver's License,2024-07-30,Verified,86.54,False,4.56,Valid document
+DOC00181,USER3933,Passport,2024-07-17,Rejected,42.01,False,3.9,Issues detected
+DOC00182,USER4853,Driver's License,2024-11-23,Verified,87.61,False,1.98,Valid document
+DOC00183,USER2485,Driver's License,2024-08-17,Rejected,48.1,False,1.27,Issues detected
+DOC00184,USER3906,Bank Statement,2024-04-24,Verified,96.23,False,0.75,Valid document
+DOC00185,USER7090,ID Card,2024-12-15,Rejected,1.73,False,3.82,Issues detected
+DOC00186,USER5088,Bank Statement,2024-09-24,Manual Review,56.71,False,0.99,Issues detected
+DOC00187,USER7542,Passport,2024-12-21,Manual Review,60.93,False,1.86,Issues detected
+DOC00188,USER7586,ID Card,2025-03-09,Manual Review,79.15,False,0.66,Issues detected
+DOC00189,USER3838,Utility Bill,2024-11-17,Verified,92.71,False,2.47,Valid document
+DOC00190,USER9096,ID Card,2024-10-30,Verified,86.66,False,1.83,Valid document
+DOC00191,USER3744,Passport,2024-08-30,Manual Review,70.96,False,4.92,Issues detected
+DOC00192,USER4848,Bank Statement,2024-07-13,Verified,92.04,False,4.07,Valid document
+DOC00193,USER1641,Utility Bill,2024-06-03,Verified,94.82,False,4.91,Valid document
+DOC00194,USER7295,Utility Bill,2024-10-15,Verified,91.98,False,2.03,Valid document
+DOC00195,USER8483,Driver's License,2024-12-14,Rejected,30.67,True,0.52,Issues detected
+DOC00196,USER1669,Bank Statement,2024-09-13,Manual Review,79.49,True,0.86,Issues detected
+DOC00197,USER1838,Driver's License,2024-10-29,Manual Review,67.58,True,4.15,Issues detected
+DOC00198,USER3124,ID Card,2024-09-29,Verified,87.94,False,2.9,Valid document
+DOC00199,USER8373,ID Card,2024-09-15,Verified,92.02,False,3.59,Valid document
+DOC00200,USER1811,Passport,2025-03-24,Verified,85.95,False,4.19,Valid document
+DOC00201,USER9413,Utility Bill,2024-05-17,Verified,81.34,False,4.25,Valid document
+DOC00202,USER6856,Utility Bill,2024-04-29,Verified,89.47,False,2.05,Valid document
+DOC00203,USER6631,Utility Bill,2024-04-10,Verified,84.3,False,3.99,Valid document
+DOC00204,USER8714,ID Card,2025-03-06,Rejected,23.02,True,4.04,Issues detected
+DOC00205,USER5558,Utility Bill,2025-03-09,Rejected,44.17,False,1.55,Issues detected
+DOC00206,USER2249,Passport,2024-11-20,Verified,89.05,False,1.2,Valid document
+DOC00207,USER6480,Utility Bill,2025-02-18,Verified,80.15,False,2.44,Valid document
+DOC00208,USER4939,Bank Statement,2024-12-01,Rejected,5.06,False,3.15,Issues detected
+DOC00209,USER3178,Bank Statement,2024-05-09,Verified,82.58,False,2.18,Valid document
+DOC00210,USER2555,Passport,2025-03-13,Manual Review,78.27,True,4.18,Issues detected
+DOC00211,USER6611,Utility Bill,2025-02-14,Rejected,20.0,False,4.56,Issues detected
+DOC00212,USER8264,Bank Statement,2024-06-30,Rejected,17.55,False,1.58,Issues detected
+DOC00213,USER9707,Bank Statement,2024-09-09,Rejected,14.74,True,2.74,Issues detected
+DOC00214,USER7055,Driver's License,2024-10-26,Verified,86.81,False,3.09,Valid document
+DOC00215,USER9585,Driver's License,2024-08-18,Verified,80.46,False,3.56,Valid document
+DOC00216,USER5289,Passport,2024-07-15,Rejected,32.72,False,0.66,Issues detected
+DOC00217,USER2021,Passport,2025-02-17,Rejected,18.34,False,1.34,Issues detected
+DOC00218,USER6622,Bank Statement,2025-02-23,Rejected,5.58,True,3.2,Issues detected
+DOC00219,USER1155,Driver's License,2024-07-19,Verified,91.17,False,2.22,Valid document
+DOC00220,USER6084,Passport,2024-07-03,Rejected,44.14,False,3.21,Issues detected
+DOC00221,USER7063,ID Card,2024-11-14,Rejected,30.03,True,1.52,Issues detected
+DOC00222,USER5788,Bank Statement,2024-09-15,Verified,80.8,False,2.2,Valid document
+DOC00223,USER1589,ID Card,2024-04-26,Verified,83.11,False,2.78,Valid document
+DOC00224,USER4933,Utility Bill,2024-06-07,Verified,85.24,False,3.1,Valid document
+DOC00225,USER9692,ID Card,2025-03-31,Verified,96.44,False,4.22,Valid document
+DOC00226,USER9760,Driver's License,2024-07-05,Manual Review,60.12,True,4.34,Issues detected
+DOC00227,USER9222,Utility Bill,2025-01-26,Verified,94.83,False,0.78,Valid document
+DOC00228,USER3310,Bank Statement,2025-03-26,Rejected,11.88,False,3.13,Issues detected
+DOC00229,USER2045,ID Card,2024-08-26,Verified,83.93,False,3.86,Valid document
+DOC00230,USER1124,ID Card,2024-06-24,Manual Review,74.09,False,3.34,Issues detected
+DOC00231,USER5985,Driver's License,2024-12-07,Rejected,8.59,True,2.08,Issues detected
+DOC00232,USER2549,ID Card,2024-09-27,Manual Review,60.32,True,2.2,Issues detected
+DOC00233,USER3435,Bank Statement,2024-07-09,Verified,81.65,False,2.35,Valid document
+DOC00234,USER2713,ID Card,2024-07-02,Verified,84.24,False,2.91,Valid document
+DOC00235,USER3285,Bank Statement,2025-02-24,Verified,90.29,False,1.78,Valid document
+DOC00236,USER5560,Bank Statement,2024-04-16,Verified,90.03,False,0.85,Valid document
+DOC00237,USER7009,Bank Statement,2024-04-09,Manual Review,61.49,True,1.02,Issues detected
+DOC00238,USER5445,Bank Statement,2024-11-22,Rejected,42.99,False,1.82,Issues detected
+DOC00239,USER3757,Utility Bill,2024-08-05,Verified,81.68,False,3.27,Valid document
+DOC00240,USER1003,Utility Bill,2024-11-22,Rejected,28.53,False,3.87,Issues detected
+DOC00241,USER2276,Driver's License,2025-01-30,Verified,97.83,False,1.61,Valid document
+DOC00242,USER5005,Utility Bill,2024-09-05,Verified,90.53,False,3.97,Valid document
+DOC00243,USER3051,Passport,2024-10-09,Manual Review,66.65,False,3.21,Issues detected
+DOC00244,USER2034,Utility Bill,2024-09-10,Manual Review,74.26,True,2.23,Issues detected
+DOC00245,USER5674,Driver's License,2025-03-29,Verified,86.4,False,2.44,Valid document
+DOC00246,USER5747,Utility Bill,2025-02-03,Manual Review,64.45,True,2.52,Issues detected
+DOC00247,USER4782,ID Card,2024-07-10,Verified,98.12,False,4.58,Valid document
+DOC00248,USER5697,Passport,2025-02-03,Manual Review,68.96,True,1.69,Issues detected
+DOC00249,USER1949,Utility Bill,2024-12-15,Manual Review,52.64,False,1.9,Issues detected
+DOC00250,USER3252,Bank Statement,2024-09-24,Rejected,7.1,False,2.61,Issues detected
+DOC00251,USER9674,Driver's License,2024-09-20,Verified,98.07,False,3.49,Valid document
+DOC00252,USER9686,ID Card,2024-09-09,Rejected,26.8,True,2.72,Issues detected
+DOC00253,USER2593,Passport,2024-09-07,Rejected,14.75,False,4.61,Issues detected
+DOC00254,USER2527,Bank Statement,2025-01-20,Manual Review,72.31,False,3.9,Issues detected
+DOC00255,USER2460,Driver's License,2024-07-02,Verified,99.47,False,2.31,Valid document
+DOC00256,USER8196,ID Card,2024-10-21,Verified,99.62,False,0.9,Valid document
+DOC00257,USER6215,Passport,2024-06-02,Manual Review,74.55,True,1.2,Issues detected
+DOC00258,USER3069,Bank Statement,2025-02-04,Rejected,28.77,False,2.96,Issues detected
+DOC00259,USER6201,Bank Statement,2025-02-27,Manual Review,62.36,True,3.64,Issues detected
+DOC00260,USER6591,Driver's License,2024-11-21,Verified,87.92,False,3.07,Valid document
+DOC00261,USER1179,Utility Bill,2024-05-17,Rejected,3.53,True,4.25,Issues detected
+DOC00262,USER8973,Driver's License,2025-03-25,Verified,87.39,False,3.25,Valid document
+DOC00263,USER1241,ID Card,2024-09-02,Manual Review,50.92,False,1.82,Issues detected
+DOC00264,USER5035,ID Card,2024-12-07,Rejected,7.74,False,4.01,Issues detected
+DOC00265,USER8295,Bank Statement,2024-10-03,Manual Review,55.17,False,1.05,Issues detected
+DOC00266,USER1688,Passport,2024-08-17,Rejected,9.75,True,0.93,Issues detected
+DOC00267,USER2553,ID Card,2024-05-30,Verified,95.77,False,3.19,Valid document
+DOC00268,USER9461,Passport,2024-06-13,Manual Review,70.16,True,3.7,Issues detected
+DOC00269,USER7915,Bank Statement,2024-04-27,Rejected,21.76,False,1.47,Issues detected
+DOC00270,USER3626,Utility Bill,2024-10-11,Rejected,38.22,True,2.77,Issues detected
+DOC00271,USER7587,Passport,2024-06-17,Rejected,23.46,True,4.66,Issues detected
+DOC00272,USER2977,Bank Statement,2025-03-28,Verified,97.7,False,3.65,Valid document
+DOC00273,USER1084,Driver's License,2025-01-15,Verified,98.79,False,4.06,Valid document
+DOC00274,USER2703,Passport,2025-03-28,Rejected,41.37,False,1.88,Issues detected
+DOC00275,USER4006,Driver's License,2024-11-21,Manual Review,59.75,False,4.45,Issues detected
+DOC00276,USER7046,Utility Bill,2024-10-01,Rejected,9.45,True,3.25,Issues detected
+DOC00277,USER9396,Utility Bill,2025-01-20,Rejected,45.75,False,0.65,Issues detected
+DOC00278,USER3048,Passport,2025-01-26,Manual Review,58.35,False,4.63,Issues detected
+DOC00279,USER5322,Bank Statement,2025-01-02,Rejected,37.63,True,2.65,Issues detected
+DOC00280,USER9752,ID Card,2024-07-12,Rejected,16.56,False,4.7,Issues detected
+DOC00281,USER4046,Passport,2025-01-07,Verified,90.46,False,3.29,Valid document
+DOC00282,USER7215,Driver's License,2024-04-07,Rejected,14.53,False,4.53,Issues detected
+DOC00283,USER3895,Utility Bill,2024-12-13,Rejected,30.81,True,1.28,Issues detected
+DOC00284,USER5229,Passport,2024-04-15,Verified,83.3,False,1.77,Valid document
+DOC00285,USER3324,Utility Bill,2024-07-06,Verified,98.12,False,0.84,Valid document
+DOC00286,USER9161,ID Card,2024-09-14,Manual Review,75.25,True,3.66,Issues detected
+DOC00287,USER2611,Driver's License,2024-05-03,Verified,94.02,False,4.44,Valid document
+DOC00288,USER1783,Utility Bill,2024-08-28,Rejected,30.09,False,0.91,Issues detected
+DOC00289,USER4166,Passport,2024-10-22,Manual Review,51.81,True,4.57,Issues detected
+DOC00290,USER3794,Bank Statement,2025-02-06,Verified,82.78,False,0.54,Valid document
+DOC00291,USER3618,Utility Bill,2025-02-10,Rejected,24.93,False,2.71,Issues detected
+DOC00292,USER3261,Driver's License,2025-03-20,Manual Review,76.69,False,3.54,Issues detected
+DOC00293,USER8371,ID Card,2024-08-20,Rejected,40.96,True,2.76,Issues detected
+DOC00294,USER9339,Utility Bill,2024-12-20,Rejected,4.48,False,1.42,Issues detected
+DOC00295,USER8162,Utility Bill,2024-05-11,Rejected,37.54,True,4.3,Issues detected
+DOC00296,USER4474,Bank Statement,2024-05-22,Verified,99.32,False,2.32,Valid document
+DOC00297,USER2376,Bank Statement,2024-04-20,Rejected,37.56,True,2.51,Issues detected
+DOC00298,USER9761,Driver's License,2024-09-27,Manual Review,61.08,False,3.63,Issues detected
+DOC00299,USER3160,Bank Statement,2024-11-30,Rejected,32.94,False,1.76,Issues detected
+DOC00300,USER7174,Passport,2024-06-04,Manual Review,67.48,True,4.31,Issues detected
+DOC00301,USER6256,Bank Statement,2025-01-26,Verified,81.33,False,0.95,Valid document
+DOC00302,USER9876,Bank Statement,2025-02-26,Rejected,6.68,False,0.99,Issues detected
+DOC00303,USER9159,Driver's License,2024-07-12,Rejected,24.54,False,4.03,Issues detected
+DOC00304,USER6536,Driver's License,2024-08-03,Manual Review,68.1,False,2.73,Issues detected
+DOC00305,USER3261,ID Card,2024-07-30,Verified,99.43,False,0.69,Valid document
+DOC00306,USER8900,Driver's License,2025-02-14,Verified,88.75,False,0.82,Valid document
+DOC00307,USER6862,Bank Statement,2024-06-30,Manual Review,57.7,False,3.36,Issues detected
+DOC00308,USER7732,Utility Bill,2024-11-09,Rejected,19.51,False,2.53,Issues detected
+DOC00309,USER3514,Passport,2024-10-13,Manual Review,70.7,True,0.97,Issues detected
+DOC00310,USER2011,Passport,2024-12-30,Rejected,13.44,False,4.13,Issues detected
+DOC00311,USER4258,Driver's License,2024-10-30,Manual Review,68.69,True,4.14,Issues detected
+DOC00312,USER8509,Passport,2024-04-17,Verified,89.02,False,3.16,Valid document
+DOC00313,USER7419,Passport,2024-04-21,Verified,83.78,False,4.34,Valid document
+DOC00314,USER3321,Bank Statement,2025-03-16,Rejected,0.32,False,2.74,Issues detected
+DOC00315,USER1740,Passport,2024-09-22,Verified,96.1,False,1.04,Valid document
+DOC00316,USER8874,ID Card,2024-09-21,Rejected,44.67,True,2.62,Issues detected
+DOC00317,USER1102,Passport,2024-06-22,Verified,99.46,False,3.97,Valid document
+DOC00318,USER9969,Passport,2024-12-17,Manual Review,62.05,False,4.68,Issues detected
+DOC00319,USER2819,Bank Statement,2025-03-03,Verified,91.88,False,2.49,Valid document
+DOC00320,USER5030,Bank Statement,2024-10-06,Manual Review,66.95,False,2.84,Issues detected
+DOC00321,USER4091,Passport,2024-08-30,Verified,84.61,False,3.62,Valid document
+DOC00322,USER7387,Utility Bill,2024-09-05,Verified,88.86,False,3.4,Valid document
+DOC00323,USER4975,ID Card,2024-07-06,Manual Review,75.56,False,3.57,Issues detected
+DOC00324,USER6123,Utility Bill,2025-03-06,Rejected,7.83,True,4.61,Issues detected
+DOC00325,USER5118,Driver's License,2025-02-18,Rejected,23.08,False,4.19,Issues detected
+DOC00326,USER2493,ID Card,2024-05-04,Rejected,2.78,False,1.22,Issues detected
+DOC00327,USER9868,Bank Statement,2024-11-21,Manual Review,67.6,False,3.32,Issues detected
+DOC00328,USER8014,Utility Bill,2024-05-09,Verified,84.38,False,4.82,Valid document
+DOC00329,USER2636,Passport,2024-08-23,Verified,95.26,False,4.18,Valid document
+DOC00330,USER9878,ID Card,2024-06-02,Manual Review,65.52,True,4.1,Issues detected
+DOC00331,USER6902,Utility Bill,2024-04-24,Rejected,2.88,False,4.96,Issues detected
+DOC00332,USER4386,Bank Statement,2024-07-25,Manual Review,78.22,True,4.56,Issues detected
+DOC00333,USER7707,Passport,2025-02-01,Manual Review,50.57,True,4.59,Issues detected
+DOC00334,USER2285,Utility Bill,2024-09-05,Verified,96.97,False,2.53,Valid document
+DOC00335,USER6326,Utility Bill,2024-05-19,Manual Review,56.6,False,3.8,Issues detected
+DOC00336,USER9718,Passport,2024-05-02,Manual Review,77.43,True,1.4,Issues detected
+DOC00337,USER9101,ID Card,2025-01-09,Rejected,8.19,True,3.14,Issues detected
+DOC00338,USER8526,Driver's License,2024-06-19,Rejected,7.3,True,2.02,Issues detected
+DOC00339,USER5530,Utility Bill,2024-06-30,Verified,90.13,False,4.38,Valid document
+DOC00340,USER5347,Driver's License,2024-10-09,Verified,85.21,False,2.83,Valid document
+DOC00341,USER1244,ID Card,2024-08-27,Rejected,16.12,False,4.6,Issues detected
+DOC00342,USER7446,Passport,2024-09-27,Manual Review,65.1,True,4.15,Issues detected
+DOC00343,USER8412,ID Card,2024-10-15,Rejected,43.84,True,1.46,Issues detected
+DOC00344,USER9658,Bank Statement,2024-05-09,Verified,82.16,False,4.83,Valid document
+DOC00345,USER4731,Driver's License,2024-12-28,Rejected,26.37,False,4.64,Issues detected
+DOC00346,USER2312,Passport,2025-01-16,Rejected,46.34,True,1.85,Issues detected
+DOC00347,USER5304,Bank Statement,2024-12-23,Verified,80.98,False,4.45,Valid document
+DOC00348,USER5792,Bank Statement,2024-10-06,Verified,80.1,False,4.37,Valid document
+DOC00349,USER1766,ID Card,2024-09-23,Manual Review,76.82,False,1.86,Issues detected
+DOC00350,USER8569,ID Card,2025-02-12,Verified,97.02,False,3.04,Valid document
+DOC00351,USER8202,Driver's License,2024-07-29,Manual Review,70.64,True,0.62,Issues detected
+DOC00352,USER6096,Utility Bill,2024-04-19,Verified,85.22,False,1.63,Valid document
+DOC00353,USER8483,Bank Statement,2025-01-19,Verified,92.97,False,2.62,Valid document
+DOC00354,USER1617,Driver's License,2025-01-29,Manual Review,76.96,True,4.17,Issues detected
+DOC00355,USER9009,ID Card,2024-06-07,Rejected,2.12,True,2.11,Issues detected
+DOC00356,USER8473,Driver's License,2024-09-11,Rejected,29.03,True,2.94,Issues detected
+DOC00357,USER1967,Passport,2025-01-15,Rejected,19.69,True,1.77,Issues detected
+DOC00358,USER9078,Bank Statement,2024-05-29,Verified,87.4,False,4.79,Valid document
+DOC00359,USER4980,Bank Statement,2024-10-09,Rejected,1.44,False,4.88,Issues detected
+DOC00360,USER5710,Driver's License,2024-11-23,Rejected,5.76,False,1.27,Issues detected
+DOC00361,USER8384,Passport,2025-03-22,Verified,82.75,False,2.58,Valid document
+DOC00362,USER2442,ID Card,2024-12-09,Verified,97.2,False,4.06,Valid document
+DOC00363,USER5698,ID Card,2024-09-05,Verified,89.71,False,2.85,Valid document
+DOC00364,USER3132,ID Card,2024-08-26,Rejected,37.61,False,2.68,Issues detected
+DOC00365,USER4482,Driver's License,2024-10-30,Rejected,31.3,False,3.76,Issues detected
+DOC00366,USER7099,Bank Statement,2025-01-17,Manual Review,59.36,False,1.86,Issues detected
+DOC00367,USER8600,ID Card,2024-07-02,Manual Review,74.01,True,2.94,Issues detected
+DOC00368,USER4257,Driver's License,2024-11-30,Verified,97.37,False,1.39,Valid document
+DOC00369,USER8080,Driver's License,2024-07-24,Rejected,28.7,False,0.86,Issues detected
+DOC00370,USER3214,Passport,2024-05-03,Verified,92.07,False,2.78,Valid document
+DOC00371,USER1120,Driver's License,2025-03-15,Rejected,39.44,False,3.41,Issues detected
+DOC00372,USER2551,Passport,2024-10-03,Verified,93.71,False,3.48,Valid document
+DOC00373,USER5958,Driver's License,2024-11-21,Manual Review,77.43,True,3.32,Issues detected
+DOC00374,USER4997,Driver's License,2024-08-24,Manual Review,73.74,True,3.07,Issues detected
+DOC00375,USER7891,ID Card,2025-01-21,Manual Review,50.14,True,4.84,Issues detected
+DOC00376,USER3274,ID Card,2025-03-28,Verified,96.67,False,1.13,Valid document
+DOC00377,USER7424,Bank Statement,2024-07-15,Verified,99.58,False,2.81,Valid document
+DOC00378,USER6715,Bank Statement,2024-05-03,Rejected,45.29,False,2.84,Issues detected
+DOC00379,USER9770,Utility Bill,2024-04-22,Rejected,8.58,True,1.4,Issues detected
+DOC00380,USER3525,ID Card,2024-08-31,Verified,93.65,False,1.15,Valid document
+DOC00381,USER4620,Passport,2024-07-11,Manual Review,69.53,True,2.05,Issues detected
+DOC00382,USER1985,Passport,2024-08-11,Manual Review,75.95,True,3.31,Issues detected
+DOC00383,USER1788,Utility Bill,2024-10-22,Manual Review,60.79,False,0.69,Issues detected
+DOC00384,USER2619,Utility Bill,2024-08-01,Rejected,15.57,True,1.29,Issues detected
+DOC00385,USER4355,ID Card,2024-12-30,Manual Review,70.89,True,1.23,Issues detected
+DOC00386,USER6835,Bank Statement,2024-08-07,Manual Review,68.19,False,2.82,Issues detected
+DOC00387,USER3840,Bank Statement,2024-07-04,Manual Review,60.35,True,2.74,Issues detected
+DOC00388,USER5759,Driver's License,2024-06-24,Verified,91.12,False,1.95,Valid document
+DOC00389,USER3251,Driver's License,2024-08-24,Manual Review,73.24,False,1.32,Issues detected
+DOC00390,USER4035,Bank Statement,2024-07-22,Rejected,15.77,False,0.8,Issues detected
+DOC00391,USER4565,Driver's License,2024-05-14,Manual Review,67.99,True,2.01,Issues detected
+DOC00392,USER1890,Utility Bill,2024-06-12,Manual Review,58.84,False,1.76,Issues detected
+DOC00393,USER9414,Driver's License,2024-11-04,Verified,91.78,False,1.14,Valid document
+DOC00394,USER2872,Bank Statement,2024-07-01,Verified,80.96,False,2.7,Valid document
+DOC00395,USER8552,ID Card,2024-10-06,Rejected,28.44,True,4.91,Issues detected
+DOC00396,USER8320,Bank Statement,2024-05-18,Verified,81.52,False,0.96,Valid document
+DOC00397,USER8760,ID Card,2024-10-15,Rejected,39.39,True,1.65,Issues detected
+DOC00398,USER8807,Utility Bill,2024-07-16,Rejected,41.22,False,3.13,Issues detected
+DOC00399,USER8649,Bank Statement,2024-04-05,Verified,80.8,False,1.4,Valid document
+DOC00400,USER3664,Bank Statement,2025-02-21,Rejected,26.52,True,3.52,Issues detected
+DOC00401,USER6517,Utility Bill,2024-09-26,Verified,91.92,False,1.49,Valid document
+DOC00402,USER9401,ID Card,2024-09-23,Rejected,30.37,False,1.55,Issues detected
+DOC00403,USER1548,Bank Statement,2024-06-18,Manual Review,64.91,False,3.16,Issues detected
+DOC00404,USER9021,Utility Bill,2024-06-12,Rejected,44.87,True,4.87,Issues detected
+DOC00405,USER7401,Passport,2024-07-20,Rejected,15.11,False,1.0,Issues detected
+DOC00406,USER9946,Passport,2024-07-25,Rejected,27.5,False,1.81,Issues detected
+DOC00407,USER2658,Bank Statement,2024-04-29,Verified,86.21,False,1.11,Valid document
+DOC00408,USER5304,ID Card,2024-05-12,Verified,96.83,False,3.82,Valid document
+DOC00409,USER3627,Passport,2024-10-21,Manual Review,50.58,False,2.1,Issues detected
+DOC00410,USER9966,ID Card,2024-09-11,Manual Review,51.73,True,1.75,Issues detected
+DOC00411,USER7360,Driver's License,2024-04-11,Verified,96.31,False,3.48,Valid document
+DOC00412,USER6840,Driver's License,2024-10-02,Verified,80.72,False,4.52,Valid document
+DOC00413,USER4424,Bank Statement,2024-06-30,Manual Review,74.61,True,1.76,Issues detected
+DOC00414,USER1326,ID Card,2025-02-24,Verified,82.13,False,3.76,Valid document
+DOC00415,USER4875,Bank Statement,2024-05-06,Verified,93.27,False,4.04,Valid document
+DOC00416,USER9555,Passport,2024-07-27,Manual Review,51.48,True,4.1,Issues detected
+DOC00417,USER8324,Driver's License,2024-05-20,Rejected,4.98,False,1.7,Issues detected
+DOC00418,USER1030,Driver's License,2024-04-07,Manual Review,56.37,True,4.02,Issues detected
+DOC00419,USER5633,ID Card,2024-10-02,Manual Review,58.53,False,1.11,Issues detected
+DOC00420,USER3014,Passport,2024-10-25,Rejected,39.36,True,0.7,Issues detected
+DOC00421,USER6468,Passport,2024-09-12,Manual Review,75.37,True,1.17,Issues detected
+DOC00422,USER1882,Passport,2024-09-18,Rejected,12.43,False,3.78,Issues detected
+DOC00423,USER3686,Utility Bill,2024-05-17,Verified,89.17,False,4.47,Valid document
+DOC00424,USER2451,Driver's License,2025-03-22,Verified,84.59,False,4.77,Valid document
+DOC00425,USER7203,Utility Bill,2024-05-26,Verified,90.16,False,4.36,Valid document
+DOC00426,USER3589,Driver's License,2025-03-21,Manual Review,74.66,False,3.62,Issues detected
+DOC00427,USER3912,ID Card,2025-01-28,Verified,84.9,False,3.47,Valid document
+DOC00428,USER9054,Utility Bill,2024-09-03,Manual Review,75.67,True,0.54,Issues detected
+DOC00429,USER6826,Driver's License,2024-04-14,Manual Review,68.62,False,4.04,Issues detected
+DOC00430,USER9232,Passport,2024-10-29,Verified,98.09,False,2.2,Valid document
+DOC00431,USER4234,Driver's License,2024-12-13,Manual Review,68.11,True,2.99,Issues detected
+DOC00432,USER2398,Bank Statement,2024-08-23,Rejected,41.76,False,3.91,Issues detected
+DOC00433,USER6787,Utility Bill,2025-03-22,Manual Review,55.31,True,4.72,Issues detected
+DOC00434,USER6941,Driver's License,2024-07-26,Manual Review,79.14,False,2.93,Issues detected
+DOC00435,USER6855,Utility Bill,2025-03-30,Rejected,14.38,False,3.14,Issues detected
+DOC00436,USER3317,Passport,2024-07-22,Verified,98.49,False,4.21,Valid document
+DOC00437,USER4486,Passport,2025-03-19,Manual Review,57.09,False,2.55,Issues detected
+DOC00438,USER6337,Passport,2025-03-28,Rejected,44.36,False,2.1,Issues detected
+DOC00439,USER5995,ID Card,2024-04-12,Verified,84.56,False,1.39,Valid document
+DOC00440,USER1644,Passport,2024-04-03,Manual Review,79.3,True,3.33,Issues detected
+DOC00441,USER9213,Passport,2024-09-26,Manual Review,68.45,False,2.46,Issues detected
+DOC00442,USER5365,Driver's License,2024-08-28,Manual Review,75.02,True,3.36,Issues detected
+DOC00443,USER5383,Bank Statement,2024-05-01,Verified,83.52,False,2.23,Valid document
+DOC00444,USER9149,Bank Statement,2025-01-15,Manual Review,73.3,False,4.48,Issues detected
+DOC00445,USER3500,ID Card,2024-07-25,Verified,86.89,False,2.85,Valid document
+DOC00446,USER6672,Bank Statement,2025-02-20,Rejected,12.84,False,2.55,Issues detected
+DOC00447,USER2608,Utility Bill,2024-04-20,Verified,86.2,False,4.12,Valid document
+DOC00448,USER9258,Driver's License,2024-12-05,Rejected,21.89,True,3.36,Issues detected
+DOC00449,USER6078,ID Card,2025-03-11,Manual Review,52.71,False,3.8,Issues detected
+DOC00450,USER8524,ID Card,2024-09-17,Verified,96.63,False,1.01,Valid document
+DOC00451,USER9789,ID Card,2024-09-25,Manual Review,57.3,False,0.86,Issues detected
+DOC00452,USER7509,Driver's License,2024-10-10,Rejected,22.36,False,3.69,Issues detected
+DOC00453,USER4343,ID Card,2024-05-05,Rejected,21.7,False,1.22,Issues detected
+DOC00454,USER7539,Driver's License,2024-05-21,Rejected,26.68,False,3.58,Issues detected
+DOC00455,USER9775,Bank Statement,2024-10-19,Manual Review,51.32,True,3.73,Issues detected
+DOC00456,USER1522,Driver's License,2024-07-24,Rejected,40.83,True,3.64,Issues detected
+DOC00457,USER1098,Passport,2024-12-26,Rejected,17.67,False,1.42,Issues detected
+DOC00458,USER8050,Utility Bill,2025-02-06,Manual Review,69.66,True,3.52,Issues detected
+DOC00459,USER9016,Bank Statement,2025-01-06,Rejected,49.13,True,4.93,Issues detected
+DOC00460,USER3914,Utility Bill,2025-02-13,Rejected,34.09,True,0.89,Issues detected
+DOC00461,USER8648,Passport,2024-12-31,Verified,88.54,False,3.68,Valid document
+DOC00462,USER2830,Passport,2024-07-29,Manual Review,54.46,False,1.65,Issues detected
+DOC00463,USER2130,Bank Statement,2024-11-19,Verified,85.61,False,4.05,Valid document
+DOC00464,USER4859,Utility Bill,2025-02-14,Verified,95.05,False,1.66,Valid document
+DOC00465,USER6977,Utility Bill,2025-03-18,Rejected,44.01,True,1.73,Issues detected
+DOC00466,USER3554,Utility Bill,2024-07-25,Manual Review,53.02,True,2.86,Issues detected
+DOC00467,USER5540,Passport,2024-04-07,Manual Review,67.17,False,4.14,Issues detected
+DOC00468,USER8623,ID Card,2024-12-19,Rejected,23.34,False,3.9,Issues detected
+DOC00469,USER1149,Driver's License,2024-09-05,Verified,87.63,False,0.78,Valid document
+DOC00470,USER2078,Utility Bill,2025-02-15,Verified,89.87,False,0.74,Valid document
+DOC00471,USER5505,Driver's License,2025-02-23,Manual Review,54.41,True,2.1,Issues detected
+DOC00472,USER8572,Driver's License,2024-09-08,Rejected,28.96,True,2.95,Issues detected
+DOC00473,USER3928,Bank Statement,2024-08-11,Verified,97.77,False,1.35,Valid document
+DOC00474,USER1581,Bank Statement,2024-10-27,Rejected,2.14,False,3.18,Issues detected
+DOC00475,USER6636,ID Card,2024-10-25,Rejected,21.64,True,4.79,Issues detected
+DOC00476,USER2273,Driver's License,2024-07-11,Verified,98.33,False,4.14,Valid document
+DOC00477,USER1635,Driver's License,2024-11-07,Manual Review,58.92,False,0.8,Issues detected
+DOC00478,USER8770,Bank Statement,2024-04-17,Rejected,4.11,False,1.98,Issues detected
+DOC00479,USER5740,Bank Statement,2024-10-24,Verified,99.79,False,1.77,Valid document
+DOC00480,USER3744,Bank Statement,2024-10-06,Rejected,37.09,True,2.68,Issues detected
+DOC00481,USER2115,Driver's License,2024-12-23,Rejected,9.65,True,0.81,Issues detected
+DOC00482,USER1847,Passport,2024-04-14,Manual Review,69.1,False,1.39,Issues detected
+DOC00483,USER8162,ID Card,2025-01-14,Rejected,26.51,False,4.67,Issues detected
+DOC00484,USER9840,Utility Bill,2025-02-26,Manual Review,56.03,True,3.21,Issues detected
+DOC00485,USER6612,Utility Bill,2024-07-13,Rejected,23.99,True,1.69,Issues detected
+DOC00486,USER5829,Passport,2024-08-31,Rejected,49.77,True,1.61,Issues detected
+DOC00487,USER9877,Utility Bill,2024-07-04,Verified,88.6,False,1.66,Valid document
+DOC00488,USER9787,Driver's License,2025-03-20,Manual Review,59.89,False,1.27,Issues detected
+DOC00489,USER9440,ID Card,2024-06-03,Rejected,28.36,True,4.41,Issues detected
+DOC00490,USER5689,ID Card,2024-07-27,Manual Review,74.39,True,2.71,Issues detected
+DOC00491,USER6006,Passport,2024-06-01,Rejected,30.46,True,4.16,Issues detected
+DOC00492,USER5487,Driver's License,2024-11-21,Rejected,40.42,True,4.32,Issues detected
+DOC00493,USER2312,Utility Bill,2024-10-24,Verified,82.33,False,4.18,Valid document
+DOC00494,USER7838,Driver's License,2025-03-30,Manual Review,57.71,True,4.35,Issues detected
+DOC00495,USER7744,Bank Statement,2024-06-27,Verified,82.51,False,2.18,Valid document
+DOC00496,USER1708,Bank Statement,2024-04-10,Manual Review,74.64,True,0.73,Issues detected
+DOC00497,USER9904,Bank Statement,2024-09-03,Rejected,39.05,True,1.07,Issues detected
+DOC00498,USER2190,ID Card,2025-02-22,Verified,89.99,False,1.69,Valid document
+DOC00499,USER9601,Driver's License,2024-07-24,Rejected,12.05,True,2.97,Issues detected
+DOC00500,USER5927,Utility Bill,2025-02-22,Verified,87.99,False,1.66,Valid document
+DOC00501,USER3365,Passport,2024-12-29,Verified,90.7,False,4.85,Valid document
+DOC00502,USER1784,Bank Statement,2024-07-24,Rejected,27.91,True,1.84,Issues detected
+DOC00503,USER8365,Passport,2024-08-25,Rejected,22.78,False,3.9,Issues detected
+DOC00504,USER1944,Driver's License,2025-03-26,Rejected,3.16,False,0.71,Issues detected
+DOC00505,USER4063,Passport,2024-06-14,Rejected,42.58,True,3.98,Issues detected
+DOC00506,USER9599,Utility Bill,2024-06-08,Manual Review,77.54,True,2.28,Issues detected
+DOC00507,USER3825,Bank Statement,2025-01-16,Verified,87.59,False,1.85,Valid document
+DOC00508,USER1406,Utility Bill,2025-03-17,Manual Review,52.81,True,4.21,Issues detected
+DOC00509,USER3144,Bank Statement,2024-07-22,Rejected,41.92,False,2.0,Issues detected
+DOC00510,USER1717,Driver's License,2024-08-27,Rejected,9.31,True,1.1,Issues detected
+DOC00511,USER7978,ID Card,2024-04-26,Manual Review,57.37,True,0.5,Issues detected
+DOC00512,USER2488,Driver's License,2024-06-02,Rejected,44.01,True,1.55,Issues detected
+DOC00513,USER6265,Bank Statement,2024-05-25,Manual Review,53.1,False,3.28,Issues detected
+DOC00514,USER1638,Driver's License,2024-11-21,Verified,93.29,False,4.68,Valid document
+DOC00515,USER4605,Passport,2024-05-04,Manual Review,58.13,True,2.57,Issues detected
+DOC00516,USER1072,Bank Statement,2025-03-08,Rejected,48.51,True,1.5,Issues detected
+DOC00517,USER8500,Passport,2024-08-15,Rejected,1.78,True,3.47,Issues detected
+DOC00518,USER8178,Utility Bill,2024-08-22,Manual Review,77.15,True,4.17,Issues detected
+DOC00519,USER4302,ID Card,2024-12-28,Verified,97.76,False,0.71,Valid document
+DOC00520,USER5354,Passport,2024-12-25,Verified,80.02,False,2.82,Valid document
+DOC00521,USER5129,Utility Bill,2025-03-26,Rejected,39.36,True,1.84,Issues detected
+DOC00522,USER8627,Passport,2024-12-24,Rejected,30.62,True,3.39,Issues detected
+DOC00523,USER1626,Utility Bill,2024-12-10,Rejected,45.73,True,3.69,Issues detected
+DOC00524,USER5702,ID Card,2025-02-13,Verified,80.36,False,3.04,Valid document
+DOC00525,USER6365,ID Card,2024-07-05,Manual Review,69.79,True,1.31,Issues detected
+DOC00526,USER9482,ID Card,2024-05-25,Manual Review,73.09,False,1.76,Issues detected
+DOC00527,USER4874,ID Card,2024-06-20,Manual Review,53.52,True,2.93,Issues detected
+DOC00528,USER9471,Utility Bill,2025-02-09,Verified,89.51,False,3.04,Valid document
+DOC00529,USER9054,Passport,2024-06-05,Manual Review,64.22,True,3.17,Issues detected
+DOC00530,USER5131,ID Card,2024-11-03,Verified,85.69,False,3.33,Valid document
+DOC00531,USER4385,Utility Bill,2025-01-23,Verified,98.35,False,2.73,Valid document
+DOC00532,USER7582,Utility Bill,2024-05-04,Rejected,27.02,False,4.95,Issues detected
+DOC00533,USER6722,Utility Bill,2024-09-04,Manual Review,64.22,True,2.77,Issues detected
+DOC00534,USER3178,ID Card,2024-04-28,Verified,95.75,False,4.31,Valid document
+DOC00535,USER9523,Driver's License,2024-04-28,Manual Review,68.96,False,2.95,Issues detected
+DOC00536,USER3683,Passport,2024-10-16,Verified,82.03,False,1.83,Valid document
+DOC00537,USER7919,ID Card,2024-12-04,Rejected,18.3,True,3.49,Issues detected
+DOC00538,USER8952,Driver's License,2025-02-19,Manual Review,64.76,False,0.82,Issues detected
+DOC00539,USER4730,Passport,2024-08-16,Manual Review,57.21,True,2.77,Issues detected
+DOC00540,USER4526,Driver's License,2024-12-12,Verified,87.15,False,3.47,Valid document
+DOC00541,USER2232,ID Card,2024-05-09,Verified,90.93,False,1.84,Valid document
+DOC00542,USER1167,ID Card,2025-03-03,Verified,93.42,False,1.61,Valid document
+DOC00543,USER1473,Driver's License,2024-08-18,Manual Review,61.83,False,1.21,Issues detected
+DOC00544,USER9932,Bank Statement,2025-03-12,Rejected,8.07,False,3.69,Issues detected
+DOC00545,USER1414,Bank Statement,2024-08-02,Rejected,19.79,True,1.78,Issues detected
+DOC00546,USER6179,Passport,2025-02-03,Rejected,21.62,True,4.67,Issues detected
+DOC00547,USER8825,Passport,2024-10-30,Verified,80.35,False,2.28,Valid document
+DOC00548,USER8740,Bank Statement,2025-02-28,Verified,94.34,False,0.62,Valid document
+DOC00549,USER6977,ID Card,2025-01-11,Rejected,1.58,False,2.72,Issues detected
+DOC00550,USER5376,Utility Bill,2024-08-04,Verified,87.91,False,3.65,Valid document
+DOC00551,USER4555,Driver's License,2024-08-20,Verified,97.89,False,2.06,Valid document
+DOC00552,USER9242,Bank Statement,2024-07-01,Verified,88.0,False,2.73,Valid document
+DOC00553,USER1181,Utility Bill,2024-06-30,Rejected,6.66,False,2.12,Issues detected
+DOC00554,USER4602,Passport,2024-12-08,Manual Review,78.5,False,1.05,Issues detected
+DOC00555,USER3220,Passport,2024-10-11,Verified,86.94,False,3.76,Valid document
+DOC00556,USER7584,Utility Bill,2024-09-19,Verified,89.09,False,4.04,Valid document
+DOC00557,USER8803,Driver's License,2024-09-09,Rejected,14.61,False,2.5,Issues detected
+DOC00558,USER9882,ID Card,2024-10-19,Manual Review,53.1,True,1.82,Issues detected
+DOC00559,USER8369,Driver's License,2024-09-19,Rejected,5.96,True,3.4,Issues detected
+DOC00560,USER1146,ID Card,2025-03-20,Rejected,20.0,False,3.86,Issues detected
+DOC00561,USER1470,Passport,2024-07-22,Rejected,31.24,True,1.79,Issues detected
+DOC00562,USER6279,Utility Bill,2024-06-09,Rejected,23.64,False,0.59,Issues detected
+DOC00563,USER2274,Utility Bill,2025-01-12,Verified,81.26,False,1.16,Valid document
+DOC00564,USER4091,Driver's License,2024-08-01,Rejected,31.89,True,4.37,Issues detected
+DOC00565,USER6335,Driver's License,2024-07-04,Manual Review,64.48,False,1.51,Issues detected
+DOC00566,USER6173,Bank Statement,2024-10-26,Rejected,34.8,False,4.41,Issues detected
+DOC00567,USER9551,Utility Bill,2024-04-25,Rejected,35.22,True,2.18,Issues detected
+DOC00568,USER3409,Bank Statement,2024-09-26,Rejected,35.39,True,3.65,Issues detected
+DOC00569,USER4775,Driver's License,2024-07-20,Verified,88.97,False,1.07,Valid document
+DOC00570,USER2679,Bank Statement,2024-12-18,Rejected,6.08,True,1.11,Issues detected
+DOC00571,USER3359,Passport,2024-07-16,Verified,96.78,False,1.34,Valid document
+DOC00572,USER6817,Bank Statement,2024-04-26,Rejected,32.15,False,4.7,Issues detected
+DOC00573,USER2151,ID Card,2024-05-07,Verified,91.03,False,3.3,Valid document
+DOC00574,USER3254,Passport,2024-06-16,Rejected,13.68,False,3.39,Issues detected
+DOC00575,USER8427,Bank Statement,2024-09-14,Rejected,10.4,True,3.24,Issues detected
+DOC00576,USER9338,Passport,2025-01-01,Manual Review,74.97,True,0.96,Issues detected
+DOC00577,USER2606,Passport,2024-10-20,Manual Review,64.72,True,1.27,Issues detected
+DOC00578,USER1259,Utility Bill,2025-03-30,Rejected,24.42,True,1.41,Issues detected
+DOC00579,USER2010,Bank Statement,2024-08-10,Verified,89.03,False,0.77,Valid document
+DOC00580,USER8379,ID Card,2025-03-24,Verified,94.74,False,2.48,Valid document
+DOC00581,USER4278,ID Card,2024-11-19,Verified,99.28,False,1.66,Valid document
+DOC00582,USER3984,Passport,2024-04-25,Rejected,35.86,True,1.05,Issues detected
+DOC00583,USER4577,Bank Statement,2024-11-24,Rejected,24.89,False,2.85,Issues detected
+DOC00584,USER6609,Passport,2025-03-02,Rejected,1.78,True,3.94,Issues detected
+DOC00585,USER9574,Utility Bill,2024-08-18,Manual Review,75.27,True,4.68,Issues detected
+DOC00586,USER8969,Driver's License,2024-12-31,Verified,92.39,False,3.84,Valid document
+DOC00587,USER6726,Passport,2025-01-04,Manual Review,68.51,False,2.69,Issues detected
+DOC00588,USER9314,ID Card,2024-09-24,Verified,94.01,False,2.15,Valid document
+DOC00589,USER5309,Bank Statement,2024-09-10,Rejected,23.9,True,3.79,Issues detected
+DOC00590,USER7100,ID Card,2024-08-02,Manual Review,56.57,False,2.25,Issues detected
+DOC00591,USER9418,Bank Statement,2024-05-18,Verified,96.49,False,4.34,Valid document
+DOC00592,USER4850,Driver's License,2024-10-12,Manual Review,75.39,True,0.73,Issues detected
+DOC00593,USER5001,Passport,2024-05-19,Manual Review,75.09,True,0.9,Issues detected
+DOC00594,USER6086,Bank Statement,2024-05-30,Rejected,1.22,True,4.92,Issues detected
+DOC00595,USER8747,ID Card,2024-11-09,Rejected,33.88,True,0.8,Issues detected
+DOC00596,USER4026,Driver's License,2024-08-15,Rejected,3.03,False,2.3,Issues detected
+DOC00597,USER8065,Bank Statement,2025-01-03,Rejected,4.41,True,4.03,Issues detected
+DOC00598,USER9326,Bank Statement,2025-02-07,Rejected,47.04,False,3.29,Issues detected
+DOC00599,USER9656,Passport,2024-12-08,Manual Review,69.89,False,0.91,Issues detected
+DOC00600,USER8613,Driver's License,2024-05-12,Verified,93.13,False,1.01,Valid document
+DOC00601,USER1269,Driver's License,2024-10-28,Manual Review,50.04,True,1.52,Issues detected
+DOC00602,USER4685,Passport,2025-01-29,Manual Review,78.08,True,0.56,Issues detected
+DOC00603,USER6666,Passport,2024-11-25,Verified,91.13,False,4.04,Valid document
+DOC00604,USER2515,Utility Bill,2024-11-02,Rejected,40.92,True,4.92,Issues detected
+DOC00605,USER7461,Utility Bill,2024-10-04,Manual Review,63.24,False,1.74,Issues detected
+DOC00606,USER9229,Passport,2025-01-30,Verified,88.59,False,1.17,Valid document
+DOC00607,USER3003,Passport,2024-07-24,Verified,85.72,False,2.57,Valid document
+DOC00608,USER5486,Passport,2024-09-03,Manual Review,50.32,True,2.72,Issues detected
+DOC00609,USER3227,ID Card,2024-10-06,Verified,81.39,False,2.97,Valid document
+DOC00610,USER3312,Driver's License,2024-07-31,Rejected,25.01,True,2.4,Issues detected
+DOC00611,USER2236,ID Card,2024-12-13,Rejected,35.85,True,3.2,Issues detected
+DOC00612,USER3960,Bank Statement,2024-06-28,Manual Review,55.18,True,0.89,Issues detected
+DOC00613,USER5313,Bank Statement,2024-09-22,Verified,85.27,False,2.73,Valid document
+DOC00614,USER9250,Bank Statement,2025-01-31,Verified,82.71,False,2.33,Valid document
+DOC00615,USER6357,Driver's License,2024-04-19,Verified,94.35,False,1.69,Valid document
+DOC00616,USER2019,ID Card,2024-10-20,Rejected,28.53,True,3.82,Issues detected
+DOC00617,USER2737,Passport,2024-09-05,Verified,91.45,False,2.15,Valid document
+DOC00618,USER6640,ID Card,2024-11-14,Rejected,43.92,True,2.64,Issues detected
+DOC00619,USER9558,Utility Bill,2024-10-25,Rejected,38.81,True,3.48,Issues detected
+DOC00620,USER4218,Bank Statement,2025-01-03,Manual Review,54.34,True,1.79,Issues detected
+DOC00621,USER8687,Bank Statement,2024-07-18,Rejected,37.44,False,0.63,Issues detected
+DOC00622,USER5883,ID Card,2024-11-02,Rejected,20.36,False,4.9,Issues detected
+DOC00623,USER9032,Driver's License,2024-10-05,Verified,97.03,False,2.19,Valid document
+DOC00624,USER6006,ID Card,2025-02-18,Manual Review,51.7,False,3.34,Issues detected
+DOC00625,USER8030,Bank Statement,2024-07-23,Manual Review,61.01,True,3.73,Issues detected
+DOC00626,USER6782,Driver's License,2025-03-13,Manual Review,74.17,True,1.05,Issues detected
+DOC00627,USER2402,Passport,2024-06-10,Manual Review,52.8,True,3.41,Issues detected
+DOC00628,USER1630,ID Card,2024-08-24,Verified,80.03,False,4.79,Valid document
+DOC00629,USER4876,Passport,2024-11-11,Manual Review,68.78,True,4.69,Issues detected
+DOC00630,USER9457,Bank Statement,2024-08-19,Verified,83.71,False,4.97,Valid document
+DOC00631,USER7597,Bank Statement,2024-11-24,Verified,92.49,False,3.81,Valid document
+DOC00632,USER3924,Utility Bill,2024-07-17,Verified,90.45,False,4.18,Valid document
+DOC00633,USER8255,Utility Bill,2024-10-30,Manual Review,51.24,True,2.71,Issues detected
+DOC00634,USER5233,Bank Statement,2024-11-09,Verified,86.55,False,4.72,Valid document
+DOC00635,USER4748,ID Card,2024-08-15,Manual Review,77.19,False,3.07,Issues detected
+DOC00636,USER4724,Passport,2024-12-09,Verified,92.57,False,4.86,Valid document
+DOC00637,USER2558,ID Card,2024-04-13,Verified,81.59,False,3.94,Valid document
+DOC00638,USER1442,Bank Statement,2024-09-09,Manual Review,74.93,True,3.98,Issues detected
+DOC00639,USER3904,ID Card,2024-11-29,Manual Review,65.33,False,4.09,Issues detected
+DOC00640,USER8986,Utility Bill,2024-04-19,Manual Review,78.33,False,3.16,Issues detected
+DOC00641,USER3042,Bank Statement,2024-08-10,Rejected,21.51,True,2.03,Issues detected
+DOC00642,USER7010,Driver's License,2024-06-04,Verified,97.48,False,0.9,Valid document
+DOC00643,USER9138,Passport,2024-10-25,Verified,82.15,False,4.39,Valid document
+DOC00644,USER1843,Utility Bill,2024-09-14,Manual Review,67.22,False,4.27,Issues detected
+DOC00645,USER5750,Driver's License,2024-09-29,Verified,84.72,False,3.35,Valid document
+DOC00646,USER7515,Utility Bill,2025-01-31,Rejected,12.52,False,1.51,Issues detected
+DOC00647,USER2046,Bank Statement,2024-10-20,Verified,93.87,False,4.8,Valid document
+DOC00648,USER1729,Driver's License,2024-10-03,Manual Review,72.25,True,1.51,Issues detected
+DOC00649,USER2788,Passport,2024-06-11,Verified,86.82,False,3.49,Valid document
+DOC00650,USER9288,ID Card,2024-05-18,Manual Review,75.81,False,4.2,Issues detected
+DOC00651,USER6129,ID Card,2024-05-23,Manual Review,50.6,False,1.95,Issues detected
+DOC00652,USER8318,Driver's License,2025-01-20,Verified,81.36,False,2.1,Valid document
+DOC00653,USER2192,Bank Statement,2024-09-05,Verified,99.23,False,0.95,Valid document
+DOC00654,USER8009,Driver's License,2025-01-15,Verified,84.76,False,3.08,Valid document
+DOC00655,USER3164,ID Card,2025-03-22,Manual Review,62.03,False,0.65,Issues detected
+DOC00656,USER8992,Bank Statement,2024-04-09,Rejected,1.58,False,1.39,Issues detected
+DOC00657,USER1227,ID Card,2024-11-20,Verified,96.91,False,4.46,Valid document
+DOC00658,USER8842,Bank Statement,2024-10-19,Verified,98.96,False,4.3,Valid document
+DOC00659,USER8955,Driver's License,2024-07-05,Manual Review,50.91,False,1.7,Issues detected
+DOC00660,USER9020,Bank Statement,2024-11-30,Manual Review,78.19,False,3.87,Issues detected
+DOC00661,USER9550,Bank Statement,2025-04-01,Rejected,1.94,False,3.97,Issues detected
+DOC00662,USER5817,Driver's License,2024-10-02,Rejected,41.6,False,2.23,Issues detected
+DOC00663,USER3682,Passport,2025-03-03,Verified,86.69,False,3.73,Valid document
+DOC00664,USER7858,Utility Bill,2025-01-09,Verified,82.81,False,3.72,Valid document
+DOC00665,USER1199,Bank Statement,2024-11-11,Rejected,23.93,True,1.17,Issues detected
+DOC00666,USER9965,ID Card,2025-02-18,Verified,89.98,False,2.06,Valid document
+DOC00667,USER6871,Passport,2024-07-06,Rejected,40.16,False,0.63,Issues detected
+DOC00668,USER6161,Utility Bill,2024-05-20,Rejected,29.47,False,2.19,Issues detected
+DOC00669,USER7958,Utility Bill,2025-01-02,Manual Review,62.84,True,1.19,Issues detected
+DOC00670,USER4942,Driver's License,2025-02-22,Verified,83.61,False,0.56,Valid document
+DOC00671,USER7621,Bank Statement,2024-11-03,Verified,97.38,False,4.15,Valid document
+DOC00672,USER1138,Utility Bill,2024-09-05,Rejected,31.46,False,2.34,Issues detected
+DOC00673,USER3971,ID Card,2025-02-14,Verified,80.88,False,2.15,Valid document
+DOC00674,USER2417,Bank Statement,2024-08-26,Manual Review,55.22,True,4.48,Issues detected
+DOC00675,USER5308,Passport,2024-05-08,Rejected,26.76,False,3.0,Issues detected
+DOC00676,USER9372,Passport,2024-08-20,Manual Review,52.96,True,2.15,Issues detected
+DOC00677,USER3841,ID Card,2024-07-18,Verified,98.61,False,2.2,Valid document
+DOC00678,USER6217,Utility Bill,2024-11-30,Verified,80.54,False,2.81,Valid document
+DOC00679,USER3732,Passport,2025-01-14,Manual Review,66.28,True,1.3,Issues detected
+DOC00680,USER2639,Bank Statement,2024-12-23,Rejected,6.64,False,0.54,Issues detected
+DOC00681,USER5179,Bank Statement,2024-07-08,Manual Review,50.3,False,4.83,Issues detected
+DOC00682,USER5315,Passport,2025-03-05,Manual Review,75.33,True,3.18,Issues detected
+DOC00683,USER1513,Passport,2024-10-02,Verified,85.97,False,1.87,Valid document
+DOC00684,USER3458,ID Card,2024-06-06,Manual Review,79.6,False,3.11,Issues detected
+DOC00685,USER7828,Passport,2025-01-20,Manual Review,51.8,False,4.8,Issues detected
+DOC00686,USER3419,Passport,2024-10-19,Rejected,33.34,False,2.98,Issues detected
+DOC00687,USER1374,Driver's License,2024-11-09,Verified,92.71,False,2.64,Valid document
+DOC00688,USER1932,Utility Bill,2025-02-25,Manual Review,70.54,True,4.78,Issues detected
+DOC00689,USER7838,Utility Bill,2025-01-03,Manual Review,60.34,False,2.14,Issues detected
+DOC00690,USER2108,Bank Statement,2024-05-11,Rejected,45.18,False,3.31,Issues detected
+DOC00691,USER6243,Utility Bill,2025-02-25,Manual Review,64.74,True,3.47,Issues detected
+DOC00692,USER2989,ID Card,2025-02-28,Rejected,32.98,False,3.43,Issues detected
+DOC00693,USER2718,Driver's License,2024-12-19,Rejected,37.64,False,2.89,Issues detected
+DOC00694,USER4686,Passport,2024-09-20,Verified,95.95,False,2.05,Valid document
+DOC00695,USER2342,Utility Bill,2024-11-02,Manual Review,63.24,False,2.36,Issues detected
+DOC00696,USER8761,Utility Bill,2024-12-26,Rejected,32.81,True,4.97,Issues detected
+DOC00697,USER9890,Driver's License,2024-10-06,Manual Review,77.43,True,4.85,Issues detected
+DOC00698,USER9590,Passport,2025-02-12,Rejected,4.61,True,4.3,Issues detected
+DOC00699,USER7640,Utility Bill,2025-03-14,Manual Review,78.12,True,1.6,Issues detected
+DOC00700,USER7312,Passport,2025-03-10,Manual Review,68.58,True,4.49,Issues detected
+DOC00701,USER2151,Bank Statement,2024-06-09,Verified,85.84,False,4.49,Valid document
+DOC00702,USER4398,Bank Statement,2024-04-27,Manual Review,57.44,False,0.61,Issues detected
+DOC00703,USER6694,Bank Statement,2025-03-23,Manual Review,60.27,False,2.61,Issues detected
+DOC00704,USER7162,Driver's License,2024-12-30,Manual Review,66.21,True,4.59,Issues detected
+DOC00705,USER2143,ID Card,2025-01-30,Verified,91.69,False,1.43,Valid document
+DOC00706,USER7835,Driver's License,2024-04-23,Verified,96.91,False,4.09,Valid document
+DOC00707,USER2334,Bank Statement,2024-10-01,Manual Review,52.33,False,4.71,Issues detected
+DOC00708,USER9479,ID Card,2024-08-12,Verified,85.95,False,0.5,Valid document
+DOC00709,USER5438,Utility Bill,2024-04-04,Rejected,43.07,False,3.74,Issues detected
+DOC00710,USER4652,Bank Statement,2025-01-05,Rejected,14.53,True,4.93,Issues detected
+DOC00711,USER8486,Utility Bill,2025-01-09,Rejected,31.29,True,1.34,Issues detected
+DOC00712,USER4914,Utility Bill,2024-10-22,Verified,82.27,False,3.84,Valid document
+DOC00713,USER7990,Bank Statement,2024-06-05,Manual Review,77.6,True,1.43,Issues detected
+DOC00714,USER5031,Bank Statement,2024-07-05,Rejected,46.35,True,1.79,Issues detected
+DOC00715,USER7268,Driver's License,2024-10-08,Verified,82.35,False,1.36,Valid document
+DOC00716,USER6227,ID Card,2024-12-05,Verified,97.8,False,3.29,Valid document
+DOC00717,USER2080,Utility Bill,2024-10-31,Rejected,15.42,True,4.58,Issues detected
+DOC00718,USER1303,Bank Statement,2024-12-07,Verified,99.24,False,4.77,Valid document
+DOC00719,USER6215,Bank Statement,2024-07-01,Manual Review,58.02,True,2.87,Issues detected
+DOC00720,USER9324,ID Card,2024-06-04,Rejected,31.66,False,3.0,Issues detected
+DOC00721,USER9374,Bank Statement,2025-01-03,Rejected,17.98,False,3.92,Issues detected
+DOC00722,USER6320,Passport,2024-11-21,Rejected,3.32,True,3.8,Issues detected
+DOC00723,USER8369,Utility Bill,2024-10-01,Rejected,19.66,True,4.64,Issues detected
+DOC00724,USER5967,Passport,2024-07-05,Rejected,30.91,False,1.65,Issues detected
+DOC00725,USER5520,ID Card,2024-11-20,Rejected,34.1,False,4.54,Issues detected
+DOC00726,USER9422,Passport,2025-03-08,Manual Review,77.07,False,2.62,Issues detected
+DOC00727,USER7983,ID Card,2024-12-18,Manual Review,77.54,False,2.42,Issues detected
+DOC00728,USER5166,Passport,2024-10-05,Rejected,13.18,True,1.04,Issues detected
+DOC00729,USER8051,Utility Bill,2024-07-11,Verified,94.15,False,2.33,Valid document
+DOC00730,USER8255,Passport,2024-09-02,Rejected,0.72,True,2.38,Issues detected
+DOC00731,USER3974,Passport,2024-11-29,Rejected,10.0,True,1.51,Issues detected
+DOC00732,USER6826,ID Card,2025-03-28,Rejected,30.47,True,2.76,Issues detected
+DOC00733,USER7513,ID Card,2024-11-15,Manual Review,71.07,False,3.5,Issues detected
+DOC00734,USER9792,Bank Statement,2024-04-28,Manual Review,79.41,False,5.0,Issues detected
+DOC00735,USER2733,ID Card,2024-09-16,Verified,99.42,False,2.5,Valid document
+DOC00736,USER6038,Passport,2024-11-10,Verified,93.31,False,1.26,Valid document
+DOC00737,USER5231,ID Card,2024-06-13,Verified,85.82,False,0.87,Valid document
+DOC00738,USER5855,Passport,2025-03-16,Rejected,43.31,False,1.6,Issues detected
+DOC00739,USER4776,Passport,2024-11-15,Verified,81.43,False,1.0,Valid document
+DOC00740,USER8477,Passport,2024-08-12,Verified,98.07,False,2.8,Valid document
+DOC00741,USER2300,Utility Bill,2024-07-31,Manual Review,61.41,True,3.91,Issues detected
+DOC00742,USER9708,ID Card,2024-09-27,Rejected,35.16,True,2.25,Issues detected
+DOC00743,USER4620,ID Card,2024-06-13,Rejected,43.78,True,4.07,Issues detected
+DOC00744,USER6636,Utility Bill,2024-09-03,Verified,84.79,False,3.35,Valid document
+DOC00745,USER6779,Bank Statement,2025-01-12,Manual Review,53.94,True,4.67,Issues detected
+DOC00746,USER2623,Passport,2024-06-24,Rejected,23.66,True,4.27,Issues detected
+DOC00747,USER7379,Bank Statement,2024-06-09,Verified,91.53,False,3.69,Valid document
+DOC00748,USER1456,Bank Statement,2024-11-08,Verified,80.75,False,3.18,Valid document
+DOC00749,USER5829,Driver's License,2024-11-25,Manual Review,73.71,False,4.92,Issues detected
+DOC00750,USER8072,Bank Statement,2024-09-03,Rejected,12.87,False,1.16,Issues detected
+DOC00751,USER4930,Passport,2024-08-31,Verified,80.86,False,4.57,Valid document
+DOC00752,USER6080,Driver's License,2024-10-16,Manual Review,51.19,False,3.78,Issues detected
+DOC00753,USER1665,Passport,2024-05-22,Verified,99.77,False,2.47,Valid document
+DOC00754,USER9960,Bank Statement,2024-09-29,Rejected,16.27,False,4.66,Issues detected
+DOC00755,USER3424,Passport,2024-05-01,Manual Review,55.57,True,1.22,Issues detected
+DOC00756,USER2949,Utility Bill,2024-07-25,Verified,80.07,False,4.95,Valid document
+DOC00757,USER5007,Bank Statement,2024-09-24,Rejected,29.35,True,4.58,Issues detected
+DOC00758,USER2267,Passport,2024-04-19,Rejected,40.25,False,2.19,Issues detected
+DOC00759,USER9266,Passport,2025-02-07,Verified,96.67,False,3.56,Valid document
+DOC00760,USER1139,Driver's License,2024-06-30,Manual Review,55.11,True,3.59,Issues detected
+DOC00761,USER4413,Bank Statement,2025-03-06,Rejected,14.26,False,2.31,Issues detected
+DOC00762,USER7580,ID Card,2024-12-27,Manual Review,66.42,True,3.26,Issues detected
+DOC00763,USER8617,ID Card,2024-05-18,Manual Review,55.34,True,4.39,Issues detected
+DOC00764,USER8748,Passport,2024-04-04,Manual Review,65.98,True,3.38,Issues detected
+DOC00765,USER7860,Driver's License,2024-09-04,Verified,85.19,False,3.01,Valid document
+DOC00766,USER1202,Driver's License,2024-04-12,Rejected,26.3,True,4.2,Issues detected
+DOC00767,USER7315,Utility Bill,2025-01-08,Rejected,27.59,True,3.14,Issues detected
+DOC00768,USER6294,Driver's License,2024-11-04,Verified,82.85,False,4.88,Valid document
+DOC00769,USER4133,Utility Bill,2024-04-12,Rejected,22.52,False,1.73,Issues detected
+DOC00770,USER6340,Driver's License,2024-10-23,Verified,98.63,False,4.22,Valid document
+DOC00771,USER5887,Utility Bill,2024-12-01,Manual Review,70.35,False,4.17,Issues detected
+DOC00772,USER6404,Driver's License,2024-09-17,Verified,92.39,False,2.68,Valid document
+DOC00773,USER2815,Driver's License,2024-12-08,Manual Review,71.27,True,3.5,Issues detected
+DOC00774,USER8984,Bank Statement,2025-03-04,Rejected,35.02,True,4.13,Issues detected
+DOC00775,USER4500,Utility Bill,2024-11-12,Rejected,47.94,False,2.96,Issues detected
+DOC00776,USER8793,Passport,2024-07-25,Verified,98.34,False,2.05,Valid document
+DOC00777,USER1652,Bank Statement,2024-12-30,Rejected,6.59,True,2.45,Issues detected
+DOC00778,USER5994,Passport,2024-04-09,Verified,92.23,False,3.44,Valid document
+DOC00779,USER1489,Bank Statement,2024-04-06,Rejected,43.02,True,1.4,Issues detected
+DOC00780,USER5280,ID Card,2024-10-04,Manual Review,57.97,True,1.65,Issues detected
+DOC00781,USER2064,ID Card,2025-03-06,Rejected,39.0,False,1.18,Issues detected
+DOC00782,USER2264,ID Card,2024-08-25,Manual Review,55.33,True,2.46,Issues detected
+DOC00783,USER9314,Utility Bill,2024-04-04,Verified,92.0,False,1.66,Valid document
+DOC00784,USER5875,Bank Statement,2024-05-18,Rejected,23.62,False,4.91,Issues detected
+DOC00785,USER3932,Bank Statement,2024-04-12,Rejected,49.05,False,2.98,Issues detected
+DOC00786,USER1378,ID Card,2024-10-22,Rejected,23.62,False,2.21,Issues detected
+DOC00787,USER8961,Passport,2024-04-15,Manual Review,54.02,True,2.32,Issues detected
+DOC00788,USER8368,Bank Statement,2024-04-18,Verified,86.18,False,1.01,Valid document
+DOC00789,USER2445,Passport,2024-07-19,Rejected,22.16,False,1.17,Issues detected
+DOC00790,USER3544,Driver's License,2024-12-24,Verified,86.05,False,1.57,Valid document
+DOC00791,USER7213,ID Card,2025-01-19,Manual Review,62.9,True,4.88,Issues detected
+DOC00792,USER6954,Driver's License,2024-09-08,Rejected,21.86,False,3.3,Issues detected
+DOC00793,USER7373,Driver's License,2024-06-20,Rejected,37.94,False,2.15,Issues detected
+DOC00794,USER7558,Passport,2024-04-11,Rejected,7.79,False,2.91,Issues detected
+DOC00795,USER7843,Passport,2024-12-01,Manual Review,73.18,False,0.52,Issues detected
+DOC00796,USER9970,Driver's License,2024-07-13,Rejected,25.43,False,2.05,Issues detected
+DOC00797,USER5339,Driver's License,2024-12-14,Manual Review,68.4,True,3.62,Issues detected
+DOC00798,USER6564,Bank Statement,2024-11-07,Rejected,38.82,True,0.7,Issues detected
+DOC00799,USER6936,Utility Bill,2024-06-26,Rejected,2.54,False,0.56,Issues detected
+DOC00800,USER3390,Passport,2025-01-13,Verified,97.18,False,4.68,Valid document
+DOC00801,USER5654,Driver's License,2024-10-16,Rejected,18.54,False,1.76,Issues detected
+DOC00802,USER2663,Driver's License,2025-02-11,Verified,93.81,False,3.3,Valid document
+DOC00803,USER7974,Passport,2024-06-17,Verified,99.1,False,1.58,Valid document
+DOC00804,USER4068,ID Card,2024-09-13,Verified,88.65,False,2.47,Valid document
+DOC00805,USER2670,ID Card,2024-12-27,Verified,86.26,False,2.93,Valid document
+DOC00806,USER8468,Bank Statement,2024-04-04,Verified,80.99,False,2.07,Valid document
+DOC00807,USER4084,Bank Statement,2025-02-16,Manual Review,67.46,True,4.54,Issues detected
+DOC00808,USER9529,Bank Statement,2024-07-19,Verified,97.67,False,3.61,Valid document
+DOC00809,USER9452,Passport,2024-04-12,Manual Review,73.65,False,0.64,Issues detected
+DOC00810,USER8188,ID Card,2024-09-27,Manual Review,67.07,False,3.28,Issues detected
+DOC00811,USER3649,Driver's License,2024-11-04,Verified,80.37,False,1.71,Valid document
+DOC00812,USER5625,Bank Statement,2024-04-25,Manual Review,61.38,False,2.78,Issues detected
+DOC00813,USER3068,ID Card,2024-07-05,Verified,99.15,False,1.06,Valid document
+DOC00814,USER1359,Utility Bill,2024-05-17,Rejected,39.64,False,3.68,Issues detected
+DOC00815,USER3503,Driver's License,2024-06-27,Manual Review,51.4,False,1.95,Issues detected
+DOC00816,USER8037,Driver's License,2024-10-08,Verified,81.75,False,4.83,Valid document
+DOC00817,USER6645,Passport,2024-05-28,Verified,84.6,False,0.77,Valid document
+DOC00818,USER5268,Utility Bill,2024-09-28,Rejected,44.08,True,1.2,Issues detected
+DOC00819,USER7327,Passport,2024-06-04,Rejected,43.37,False,0.57,Issues detected
+DOC00820,USER5343,Bank Statement,2025-01-25,Verified,80.08,False,2.93,Valid document
+DOC00821,USER6776,Utility Bill,2024-06-20,Verified,85.59,False,4.27,Valid document
+DOC00822,USER3751,Passport,2024-04-07,Manual Review,54.6,True,4.36,Issues detected
+DOC00823,USER3438,Bank Statement,2025-03-27,Manual Review,79.05,True,0.71,Issues detected
+DOC00824,USER2013,ID Card,2024-04-08,Manual Review,50.2,False,3.76,Issues detected
+DOC00825,USER3086,Driver's License,2024-11-20,Verified,83.15,False,1.5,Valid document
+DOC00826,USER2769,Passport,2024-04-12,Manual Review,65.51,False,4.35,Issues detected
+DOC00827,USER4090,Passport,2024-04-28,Rejected,36.77,True,3.77,Issues detected
+DOC00828,USER9510,Utility Bill,2024-12-12,Rejected,18.35,True,2.62,Issues detected
+DOC00829,USER5864,Utility Bill,2024-12-31,Manual Review,54.14,True,4.72,Issues detected
+DOC00830,USER5691,Driver's License,2024-10-06,Rejected,6.67,False,4.66,Issues detected
+DOC00831,USER9572,Passport,2024-12-27,Verified,85.71,False,2.02,Valid document
+DOC00832,USER8856,Driver's License,2025-02-16,Verified,94.28,False,1.35,Valid document
+DOC00833,USER2473,Utility Bill,2025-01-27,Verified,89.58,False,2.01,Valid document
+DOC00834,USER3552,Bank Statement,2024-05-21,Verified,89.49,False,4.31,Valid document
+DOC00835,USER6155,Driver's License,2024-07-08,Rejected,36.24,True,3.8,Issues detected
+DOC00836,USER5462,Bank Statement,2025-02-22,Rejected,15.74,False,4.52,Issues detected
+DOC00837,USER6208,Passport,2025-02-05,Manual Review,57.02,True,4.09,Issues detected
+DOC00838,USER2027,ID Card,2024-12-24,Rejected,2.74,False,4.11,Issues detected
+DOC00839,USER6766,Utility Bill,2024-08-17,Verified,80.98,False,3.85,Valid document
+DOC00840,USER2351,Passport,2024-09-27,Verified,93.46,False,3.78,Valid document
+DOC00841,USER4292,Bank Statement,2025-01-19,Verified,90.8,False,4.69,Valid document
+DOC00842,USER8854,Passport,2024-05-27,Rejected,27.5,False,4.66,Issues detected
+DOC00843,USER7825,Bank Statement,2025-02-05,Manual Review,56.85,False,4.19,Issues detected
+DOC00844,USER3704,Bank Statement,2025-03-22,Manual Review,76.52,True,1.71,Issues detected
+DOC00845,USER3856,Utility Bill,2024-07-07,Rejected,13.71,True,2.43,Issues detected
+DOC00846,USER8566,Driver's License,2024-11-13,Rejected,4.09,True,2.6,Issues detected
+DOC00847,USER4832,Driver's License,2024-12-06,Rejected,23.39,False,1.31,Issues detected
+DOC00848,USER9284,Bank Statement,2025-02-05,Rejected,22.65,False,4.23,Issues detected
+DOC00849,USER1083,ID Card,2024-07-06,Rejected,7.03,False,1.62,Issues detected
+DOC00850,USER4045,Driver's License,2024-04-06,Rejected,7.94,False,1.32,Issues detected
+DOC00851,USER9629,Bank Statement,2024-11-03,Verified,83.64,False,2.24,Valid document
+DOC00852,USER2379,Utility Bill,2024-04-23,Rejected,40.74,True,4.62,Issues detected
+DOC00853,USER7654,ID Card,2024-08-28,Rejected,7.71,True,3.57,Issues detected
+DOC00854,USER1304,Passport,2024-11-06,Manual Review,65.29,True,2.52,Issues detected
+DOC00855,USER5668,Driver's License,2025-01-18,Verified,85.71,False,4.89,Valid document
+DOC00856,USER4599,Bank Statement,2025-01-09,Rejected,32.14,True,3.25,Issues detected
+DOC00857,USER7163,ID Card,2024-07-01,Manual Review,56.66,False,2.92,Issues detected
+DOC00858,USER2761,Bank Statement,2025-03-27,Verified,98.02,False,4.2,Valid document
+DOC00859,USER7684,ID Card,2024-10-01,Rejected,44.0,True,2.03,Issues detected
+DOC00860,USER7449,ID Card,2024-05-06,Verified,92.49,False,2.2,Valid document
+DOC00861,USER3304,ID Card,2024-08-16,Rejected,18.73,False,1.22,Issues detected
+DOC00862,USER6678,Passport,2024-09-15,Verified,84.2,False,1.7,Valid document
+DOC00863,USER5821,Bank Statement,2024-07-30,Rejected,7.93,True,4.76,Issues detected
+DOC00864,USER9321,Utility Bill,2024-09-26,Verified,80.76,False,4.9,Valid document
+DOC00865,USER6038,Utility Bill,2024-12-18,Manual Review,60.02,True,3.72,Issues detected
+DOC00866,USER1325,Driver's License,2024-12-27,Rejected,28.52,True,3.42,Issues detected
+DOC00867,USER3709,Passport,2024-10-29,Verified,88.67,False,4.11,Valid document
+DOC00868,USER2464,Bank Statement,2024-10-07,Manual Review,68.72,False,4.58,Issues detected
+DOC00869,USER7235,ID Card,2024-05-27,Verified,85.46,False,1.82,Valid document
+DOC00870,USER6603,Passport,2024-12-31,Manual Review,77.03,False,0.97,Issues detected
+DOC00871,USER4434,Utility Bill,2025-03-26,Manual Review,69.26,True,2.45,Issues detected
+DOC00872,USER7412,Driver's License,2024-05-29,Manual Review,59.25,False,2.19,Issues detected
+DOC00873,USER3144,Passport,2025-02-15,Rejected,34.58,False,4.29,Issues detected
+DOC00874,USER5096,Bank Statement,2024-10-20,Manual Review,57.46,True,4.02,Issues detected
+DOC00875,USER3411,Passport,2024-05-11,Manual Review,60.0,False,1.98,Issues detected
+DOC00876,USER6674,Passport,2025-03-06,Manual Review,64.79,False,3.51,Issues detected
+DOC00877,USER1710,Utility Bill,2024-05-11,Verified,99.96,False,3.79,Valid document
+DOC00878,USER4891,Passport,2024-08-12,Verified,99.91,False,4.78,Valid document
+DOC00879,USER9594,Passport,2024-11-17,Verified,89.98,False,1.37,Valid document
+DOC00880,USER1665,Bank Statement,2024-09-19,Manual Review,50.48,True,3.05,Issues detected
+DOC00881,USER3584,Driver's License,2024-08-01,Verified,98.39,False,0.7,Valid document
+DOC00882,USER3631,Utility Bill,2024-05-21,Rejected,23.84,False,1.32,Issues detected
+DOC00883,USER6106,Utility Bill,2024-07-28,Rejected,17.77,False,2.48,Issues detected
+DOC00884,USER4377,Driver's License,2024-10-17,Manual Review,62.89,False,1.27,Issues detected
+DOC00885,USER2621,Passport,2024-12-04,Verified,97.6,False,3.71,Valid document
+DOC00886,USER2838,Utility Bill,2024-10-28,Verified,97.56,False,1.61,Valid document
+DOC00887,USER7817,Driver's License,2024-10-27,Verified,98.63,False,4.96,Valid document
+DOC00888,USER5574,Utility Bill,2024-06-03,Verified,90.68,False,4.01,Valid document
+DOC00889,USER7688,Utility Bill,2024-11-15,Verified,90.99,False,1.35,Valid document
+DOC00890,USER2462,ID Card,2024-07-01,Manual Review,76.87,True,3.25,Issues detected
+DOC00891,USER8486,Driver's License,2024-12-18,Manual Review,79.17,False,4.2,Issues detected
+DOC00892,USER7142,Passport,2024-05-07,Verified,92.28,False,4.81,Valid document
+DOC00893,USER9314,ID Card,2024-11-23,Verified,87.56,False,2.15,Valid document
+DOC00894,USER2451,ID Card,2024-09-05,Verified,82.29,False,2.83,Valid document
+DOC00895,USER6477,ID Card,2024-06-03,Verified,86.91,False,3.33,Valid document
+DOC00896,USER5853,Driver's License,2024-06-15,Rejected,44.9,False,1.48,Issues detected
+DOC00897,USER7912,Driver's License,2024-06-03,Verified,98.55,False,4.0,Valid document
+DOC00898,USER4921,Passport,2024-06-09,Verified,94.32,False,2.83,Valid document
+DOC00899,USER1432,Driver's License,2024-12-14,Manual Review,56.26,True,2.2,Issues detected
+DOC00900,USER4973,Driver's License,2024-08-25,Verified,92.81,False,1.97,Valid document
+DOC00901,USER8385,Bank Statement,2025-01-01,Rejected,19.62,True,1.71,Issues detected
+DOC00902,USER8920,Passport,2025-02-11,Rejected,25.19,False,2.63,Issues detected
+DOC00903,USER5141,Passport,2025-01-07,Verified,95.53,False,1.62,Valid document
+DOC00904,USER5427,Bank Statement,2025-02-25,Manual Review,73.65,False,0.92,Issues detected
+DOC00905,USER1139,Driver's License,2024-04-13,Rejected,35.53,True,1.23,Issues detected
+DOC00906,USER4060,Driver's License,2024-05-25,Manual Review,51.88,False,3.54,Issues detected
+DOC00907,USER1561,Utility Bill,2025-01-25,Verified,81.11,False,0.94,Valid document
+DOC00908,USER9792,ID Card,2024-05-02,Manual Review,54.07,True,4.28,Issues detected
+DOC00909,USER3752,Bank Statement,2024-06-06,Manual Review,68.6,False,4.95,Issues detected
+DOC00910,USER8329,Passport,2024-12-20,Verified,88.03,False,0.9,Valid document
+DOC00911,USER9107,ID Card,2025-03-08,Verified,96.06,False,2.12,Valid document
+DOC00912,USER3588,Bank Statement,2024-10-22,Verified,83.52,False,3.38,Valid document
+DOC00913,USER9093,ID Card,2024-08-27,Rejected,45.11,True,3.27,Issues detected
+DOC00914,USER5830,Driver's License,2024-06-13,Manual Review,50.18,True,2.01,Issues detected
+DOC00915,USER2063,ID Card,2024-06-27,Manual Review,60.76,False,2.66,Issues detected
+DOC00916,USER5959,Passport,2024-12-22,Verified,97.58,False,3.87,Valid document
+DOC00917,USER8811,Utility Bill,2024-07-15,Rejected,41.71,True,3.12,Issues detected
+DOC00918,USER3187,Passport,2024-04-10,Rejected,9.75,True,1.64,Issues detected
+DOC00919,USER5564,Driver's License,2024-12-01,Verified,99.76,False,4.77,Valid document
+DOC00920,USER8689,Driver's License,2024-04-19,Manual Review,79.26,False,4.11,Issues detected
+DOC00921,USER5206,Driver's License,2024-04-03,Rejected,49.25,False,3.24,Issues detected
+DOC00922,USER2076,ID Card,2024-09-21,Rejected,15.23,False,3.14,Issues detected
+DOC00923,USER3362,Driver's License,2024-04-30,Verified,86.27,False,2.2,Valid document
+DOC00924,USER6804,Driver's License,2024-11-06,Rejected,34.16,False,0.57,Issues detected
+DOC00925,USER1282,Bank Statement,2025-01-25,Rejected,34.66,False,1.23,Issues detected
+DOC00926,USER8322,Bank Statement,2024-04-16,Verified,96.84,False,1.98,Valid document
+DOC00927,USER7797,Driver's License,2025-03-02,Rejected,43.57,True,2.77,Issues detected
+DOC00928,USER8431,ID Card,2024-07-02,Rejected,42.98,True,2.86,Issues detected
+DOC00929,USER7785,Utility Bill,2024-05-25,Rejected,35.36,True,1.74,Issues detected
+DOC00930,USER4310,Driver's License,2025-02-15,Rejected,46.64,True,2.77,Issues detected
+DOC00931,USER1719,Passport,2025-02-03,Verified,88.49,False,1.21,Valid document
+DOC00932,USER5171,Bank Statement,2024-06-12,Verified,92.8,False,1.8,Valid document
+DOC00933,USER3523,ID Card,2025-02-17,Verified,84.94,False,3.64,Valid document
+DOC00934,USER7078,ID Card,2024-12-12,Verified,86.82,False,4.32,Valid document
+DOC00935,USER3340,ID Card,2024-04-24,Manual Review,63.09,False,4.99,Issues detected
+DOC00936,USER3861,Utility Bill,2025-04-02,Rejected,9.78,True,1.13,Issues detected
+DOC00937,USER2188,Utility Bill,2025-03-17,Rejected,45.8,True,3.4,Issues detected
+DOC00938,USER9260,Utility Bill,2024-10-23,Verified,92.01,False,4.86,Valid document
+DOC00939,USER5952,Utility Bill,2024-07-24,Manual Review,64.76,True,1.62,Issues detected
+DOC00940,USER7987,Passport,2024-05-04,Manual Review,51.95,False,4.14,Issues detected
+DOC00941,USER5556,Utility Bill,2024-06-07,Manual Review,73.66,False,2.88,Issues detected
+DOC00942,USER9214,ID Card,2024-11-20,Manual Review,73.06,True,4.61,Issues detected
+DOC00943,USER8219,ID Card,2025-01-28,Verified,86.24,False,1.09,Valid document
+DOC00944,USER2432,ID Card,2025-01-04,Verified,97.28,False,4.09,Valid document
+DOC00945,USER2459,Utility Bill,2024-10-12,Verified,93.65,False,3.48,Valid document
+DOC00946,USER5686,Passport,2025-01-22,Rejected,25.15,False,2.74,Issues detected
+DOC00947,USER8750,ID Card,2024-12-10,Verified,94.42,False,2.39,Valid document
+DOC00948,USER3940,Utility Bill,2024-09-14,Rejected,48.7,False,4.58,Issues detected
+DOC00949,USER8808,ID Card,2024-04-14,Rejected,10.82,False,1.91,Issues detected
+DOC00950,USER7919,Passport,2024-10-28,Manual Review,66.6,True,3.88,Issues detected
+DOC00951,USER5199,Bank Statement,2025-03-21,Manual Review,55.75,False,4.27,Issues detected
+DOC00952,USER1148,Driver's License,2024-05-13,Verified,94.32,False,3.61,Valid document
+DOC00953,USER9374,Driver's License,2024-11-08,Manual Review,67.42,False,3.43,Issues detected
+DOC00954,USER2724,Passport,2024-04-04,Verified,95.48,False,1.41,Valid document
+DOC00955,USER8356,ID Card,2025-03-07,Verified,96.8,False,1.57,Valid document
+DOC00956,USER5645,Utility Bill,2024-08-08,Manual Review,73.99,False,1.96,Issues detected
+DOC00957,USER5460,Bank Statement,2024-06-07,Manual Review,52.18,False,3.05,Issues detected
+DOC00958,USER9935,Passport,2024-04-21,Manual Review,74.29,True,4.89,Issues detected
+DOC00959,USER4156,Driver's License,2024-09-02,Rejected,14.68,True,1.37,Issues detected
+DOC00960,USER2728,ID Card,2024-10-16,Manual Review,67.55,True,3.24,Issues detected
+DOC00961,USER5439,Driver's License,2024-12-22,Manual Review,59.4,True,3.4,Issues detected
+DOC00962,USER6447,Utility Bill,2024-07-25,Verified,87.23,False,2.06,Valid document
+DOC00963,USER4598,Driver's License,2024-07-13,Rejected,40.77,False,2.88,Issues detected
+DOC00964,USER8151,Passport,2024-10-30,Rejected,35.7,True,4.05,Issues detected
+DOC00965,USER8426,Driver's License,2025-01-25,Verified,90.5,False,1.46,Valid document
+DOC00966,USER4451,Driver's License,2024-07-18,Manual Review,62.67,False,1.75,Issues detected
+DOC00967,USER5301,ID Card,2024-07-17,Rejected,41.52,True,3.93,Issues detected
+DOC00968,USER2071,Driver's License,2024-05-09,Manual Review,64.39,True,0.76,Issues detected
+DOC00969,USER8286,Utility Bill,2024-08-14,Manual Review,70.44,True,3.49,Issues detected
+DOC00970,USER5788,Bank Statement,2025-01-16,Manual Review,57.4,False,3.6,Issues detected
+DOC00971,USER4131,ID Card,2024-11-05,Rejected,44.04,False,1.43,Issues detected
+DOC00972,USER8934,Passport,2024-10-30,Rejected,22.65,True,0.58,Issues detected
+DOC00973,USER6279,Passport,2024-12-06,Manual Review,70.68,True,3.83,Issues detected
+DOC00974,USER2829,Utility Bill,2025-01-08,Verified,92.01,False,4.02,Valid document
+DOC00975,USER7514,Bank Statement,2024-08-10,Rejected,34.38,False,3.81,Issues detected
+DOC00976,USER9688,ID Card,2024-09-21,Rejected,45.62,True,1.8,Issues detected
+DOC00977,USER8943,Utility Bill,2025-01-17,Verified,85.66,False,3.62,Valid document
+DOC00978,USER9565,Passport,2024-07-25,Rejected,10.36,True,1.69,Issues detected
+DOC00979,USER2447,Passport,2025-03-15,Rejected,32.04,False,4.91,Issues detected
+DOC00980,USER3759,Utility Bill,2025-03-23,Manual Review,53.09,False,2.66,Issues detected
+DOC00981,USER5744,Utility Bill,2024-10-22,Verified,93.87,False,3.49,Valid document
+DOC00982,USER3493,ID Card,2024-10-12,Manual Review,57.23,True,3.01,Issues detected
+DOC00983,USER9624,Passport,2024-09-26,Manual Review,50.73,False,2.57,Issues detected
+DOC00984,USER8265,Utility Bill,2024-07-02,Rejected,31.47,False,2.31,Issues detected
+DOC00985,USER9356,Passport,2024-09-25,Verified,84.5,False,1.36,Valid document
+DOC00986,USER9951,ID Card,2025-03-15,Manual Review,54.56,True,2.12,Issues detected
+DOC00987,USER3270,Passport,2025-01-09,Verified,84.95,False,1.38,Valid document
+DOC00988,USER5812,Passport,2024-11-02,Manual Review,64.45,False,3.51,Issues detected
+DOC00989,USER6699,Passport,2024-06-27,Verified,89.37,False,2.77,Valid document
+DOC00990,USER1058,Passport,2024-08-08,Rejected,30.1,True,1.92,Issues detected
+DOC00991,USER9664,Driver's License,2025-02-27,Manual Review,52.87,True,2.58,Issues detected
+DOC00992,USER4301,Passport,2024-05-13,Manual Review,55.33,False,4.88,Issues detected
+DOC00993,USER1782,Bank Statement,2024-06-07,Verified,94.43,False,2.63,Valid document
+DOC00994,USER9742,Bank Statement,2024-05-26,Rejected,21.11,True,0.72,Issues detected
+DOC00995,USER1108,Driver's License,2024-06-22,Manual Review,78.28,True,0.72,Issues detected
+DOC00996,USER6738,Driver's License,2024-11-22,Manual Review,57.63,True,3.33,Issues detected
+DOC00997,USER3310,Utility Bill,2024-11-09,Manual Review,76.93,False,3.6,Issues detected
+DOC00998,USER7616,Passport,2025-01-09,Rejected,35.43,False,3.56,Issues detected
+DOC00999,USER8418,ID Card,2025-02-13,Verified,91.97,False,3.92,Valid document
+DOC01000,USER2512,Driver's License,2024-04-25,Verified,85.79,False,3.0,Valid document

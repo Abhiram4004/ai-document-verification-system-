@@ -1,0 +1,3 @@
+LABEL_ENCODER_PLACEHOLDER
+
+This is a placeholder file. Place your trained LabelEncoder (joblib) at this path as `label_encoder.pkl`.

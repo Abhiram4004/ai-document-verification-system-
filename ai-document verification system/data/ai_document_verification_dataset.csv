@@ -1,0 +1,3 @@
+text,label
+"This looks like an authentic certificate and the name matches records.",authentic
+"The signature is mismatched and the seal is faint — suspicious.",forgery
